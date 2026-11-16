@@ -1,0 +1,203 @@
+091115	* ID Turnieju
+"II Puchar Starosty Kolskiego"	* Nazwa Turnieju
+?	* Podtytul
+2009-11-15	* Data
+Ko³o	* Miejscowosc
+WP	* Okreg
+R	* Typ imprezy
+Grzegorz	* Imie
+Dembiñski	* Nazwisko
+04849	* ID sedziego
+www.ktb.konin.lm.pl	* www
+1	* NUMER STARTOWY
+Przemys³aw	* IMIE 1
+Machowczyk	* NAZWISKO 1
+12.0	* WK 1
+WP	* OKREG 1
+?	* INFO 1
+"Progress I Ostrzeszów"	* KLUB 1
+05202	* ID 1
+1	* NUMER STARTOWY
+Ryszard	* IMIE 
+Olenderek	* NAZWISKO 
+7.0	* WK 
+WP	* OKREG 
+S	* INFO 
+"Progress I Ostrzeszów"	* KLUB 
+05291	* ID 
+2	* NUMER STARTOWY
+Andrzej	* IMIE 2
+Go³ygowski	* NAZWISKO 2
+4.0	* WK 2
+WP	* OKREG 2
+?	* INFO 2
+"KTB Konin"	* KLUB 2
+12047	* ID 2
+2	* NUMER STARTOWY
+Miros³aw	* IMIE 
+Stawicki	* NAZWISKO 
+2.5	* WK 
+WP	* OKREG 
+?	* INFO 
+"KTB Konin"	* KLUB 
+03949	* ID 
+3	* NUMER STARTOWY
+Zbigniew	* IMIE 3
+Sawicki	* NAZWISKO 3
+0.0	* WK 3
+WP	* OKREG 3
+?	* INFO 3
+?	* KLUB 3
+90001	* ID 3
+3	* NUMER STARTOWY
+Pawe³	* IMIE 
+Wojcieszek	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+90002	* ID 
+4	* NUMER STARTOWY
+Andrzej	* IMIE 4
+Tybura	* NAZWISKO 4
+0.0	* WK 4
+WP	* OKREG 4
+?	* INFO 4
+?	* KLUB 4
+90003	* ID 4
+4	* NUMER STARTOWY
+Lech	* IMIE 
+Warwocki	* NAZWISKO 
+4.0	* WK 
+MA	* OKREG 
+S	* INFO 
+?	* KLUB 
+06355	* ID 
+5	* NUMER STARTOWY
+Ryszard	* IMIE 5
+Cieœlak	* NAZWISKO 5
+0.0	* WK 5
+WP	* OKREG 5
+?	* INFO 5
+?	* KLUB 5
+90004	* ID 5
+5	* NUMER STARTOWY
+Lechos³aw	* IMIE 
+¯arnowski	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+90005	* ID 
+6	* NUMER STARTOWY
+Ryszard	* IMIE 6
+Mo³doch	* NAZWISKO 6
+0.0	* WK 6
+WP	* OKREG 6
+?	* INFO 6
+?	* KLUB 6
+90006	* ID 6
+6	* NUMER STARTOWY
+Waldemar	* IMIE 
+Rybiewski	* NAZWISKO 
+0.5	* WK 
+KP	* OKREG 
+S	* INFO 
+?	* KLUB 
+08545	* ID 
+7	* NUMER STARTOWY
+Zdzis³aw	* IMIE 7
+Majer	* NAZWISKO 7
+1.0	* WK 7
+LD	* OKREG 7
+S	* INFO 7
+?	* KLUB 7
+10457	* ID 7
+7	* NUMER STARTOWY
+Marian	* IMIE 
+Œmia³ek	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+90007	* ID 
+8	* NUMER STARTOWY
+Jerzy	* IMIE 8
+Brett	* NAZWISKO 8
+0.0	* WK 8
+WP	* OKREG 8
+?	* INFO 8
+?	* KLUB 8
+90008	* ID 8
+8	* NUMER STARTOWY
+Micha³	* IMIE 
+Kalak	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+90009	* ID 
+9	* NUMER STARTOWY
+Marek	* IMIE 9
+Stawicki	* NAZWISKO 9
+1.5	* WK 9
+LD	* OKREG 9
+?	* INFO 9
+?	* KLUB 9
+07118	* ID 9
+9	* NUMER STARTOWY
+Zygmunt	* IMIE 
+Œwierczyñski	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+90010	* ID 
+10	* NUMER STARTOWY
+Wies³aw	* IMIE 10
+Muzykiewicz	* NAZWISKO 10
+0.5	* WK 10
+WP	* OKREG 10
+?	* INFO 10
+?	* KLUB 10
+13092	* ID 10
+10	* NUMER STARTOWY
+Waldemar	* IMIE 
+Sroczyñski	* NAZWISKO 
+2.5	* WK 
+WP	* OKREG 
+?	* INFO 
+?	* KLUB 
+10534	* ID 
+11	* NUMER STARTOWY
+Eugeniusz	* IMIE 11
+Furs	* NAZWISKO 11
+4.0	* WK 11
+WP	* OKREG 11
+S	* INFO 11
+"KTB Konin"	* KLUB 11
+03702	* ID 11
+11	* NUMER STARTOWY
+Jacek	* IMIE 
+Kokociñski	* NAZWISKO 
+2.5	* WK 
+WP	* OKREG 
+?	* INFO 
+"KTB Konin"	* KLUB 
+03775	* ID 
+12	* NUMER STARTOWY
+Grzegorz	* IMIE 12
+Dembiñski	* NAZWISKO 12
+4.0	* WK 12
+WP	* OKREG 12
+?	* INFO 12
+"KTB Konin"	* KLUB 12
+04948	* ID 12
+12	* NUMER STARTOWY
+Andrzej	* IMIE 
+Syrek	* NAZWISKO 
+12.0	* WK 
+WP	* OKREG 
+?	* INFO 
+"CATMAN-TAURUS BRIDGE TEAM 1 Poznañ"	* KLUB 
+05431	* ID 

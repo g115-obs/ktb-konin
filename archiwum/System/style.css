@@ -1,0 +1,33 @@
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+.tekst {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; LINE-HEIGHT: 130%; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+A:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: underline
+}
+.mail:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: underline
+}
+.mail:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: underline
+}
+.mail:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: underline
+}
+.mail:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #292a6d; FONT-FAMILY: verdana,arial; TEXT-DECORATION: underline
+}

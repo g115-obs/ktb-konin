@@ -1,0 +1,286 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="pl">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<title>Koniński Mityng Brydżowy</title>
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+
+
+var karty = new Array(
+////// Podaj ilość pozycji w poszczególnych menu:
+new karta(2),
+new karta(5),
+new karta(3)
+);
+
+
+var szybko = false;
+var czas = new Date();
+
+
+function display(id, wartosc)
+{
+  if (wartosc)
+  {
+    if (document.getElementById) document.getElementById(id).style.display = wartosc;
+    else if (document.all) document.all[id].style.display = wartosc;
+  }
+  else
+  {
+    var wart = "";
+    if (document.getElementById) wart = document.getElementById(id).style.display;
+    else if (document.all) wart = document.all[id].style.display;
+    return wart; 
+  }
+}
+
+function ukryj(id)
+{
+  for (var i = 0; i < karty[id].ilosc; i++) display("nr" + id + "_" + i, "none");
+  display("nr" + id, "none");
+  karty[id].rozwinieta = false;
+}
+
+var id_rozwin_zwin = 0;
+
+function rozwin_zwin(id, nr)
+{
+  if (!nr)
+  {
+    var nr = 0;
+    if (!karty[id].rozwinieta) for (var i = 0; i < karty.length; i++) if (i != id) ukryj(i);
+    czas = new Date();
+  }
+
+  if (nr < karty[id].ilosc)
+  {
+    if (karty[id].rozwinieta)
+    {
+      if (szybko) display("nr" + id + "_" + nr++, "none");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "none");
+    }
+    else
+    {
+      display("nr" + id, "block");
+      if (szybko) display("nr" + id + "_" + nr++, "block");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "block");
+    }
+  }
+
+  nr++;
+  clearTimeout(id_rozwin_zwin);
+  if (nr < karty[id].ilosc) id_rozwin_zwin = setTimeout('rozwin_zwin(' + id + ',' + nr + ')', 10);
+  else
+  {
+    if (karty[id].rozwinieta) display("nr" + id, "none");
+    if (!szybko && new Date() - czas > karty[id].ilosc*25) szybko = true;
+    else if (szybko && new Date() - czas < karty[id].ilosc*12) szybko = false;
+    karty[id].rozwinieta = (karty[id].rozwinieta ? false : true);
+  }
+}
+
+function karta(il)
+{
+  this.ilosc = il;
+  this.rozwinieta = true;
+}
+//-->
+    </SCRIPT>
+<style type="text/css">
+<!--
+.style1 {font-size: 10px}
+.style2 {font-size: 10}
+-->
+    </style>
+
+
+<meta name="Microsoft Border" content="l, default">
+</head>
+
+<body background="images/tło02.JPG"><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>&nbsp;</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+
+<p><b><font color="#CC0066" size="5" face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Koniński Mityng Brydżowy</font></b></p>
+		<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" width="450" style="border-collapse: collapse" bordercolor="#111111" height="0%" >
+			<TR>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> <a href="wyniki/I_KZK.LST">
+                  <font face="Comic Sans MS">I Kongres Ziemi Konińskiej 2000 r.</font>
+                  </a> </b>
+              </TD></TR>
+			<TR>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> <A href="Teksty/II_miting.txt">
+                  <font face="Comic Sans MS">II Mityng Ziemi Konińskiej 2001 r.</font></A></b>
+                  </b>
+              </TD></TR>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> <A href="Teksty/KMB_2003.LST">
+                  <font face="Comic Sans MS">IV Mityng Ziemi Konińskiej 2003 r.</font></A></b>
+                  </b>
+              </TD></TR>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> <A href="Teksty/VImityng.txt">
+                  <font face="Comic Sans MS">VI Mityng Ziemi Konińskiej 2005 r.</font></A></b>
+                  </b>
+              </TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> 
+                  <font face="Comic Sans MS"><a href="wyniki/mityngi/7mbzk.txt">VII Mityng Ziemi Konińskiej 2006 r.</a></font></b>
+                  </b>
+              </TD>
+            </tr>
+            <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS">&nbsp;<a href="wyniki/mityngi/7mbzk_2.txt"><b><font color="#000000">-</font></b> 
+                o Puchar Prezydenta Konina - wyniki</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS"><a href="wyniki/mityngi/7mbzk.txt">&nbsp;<b><font color="#000000">-</font></b> 
+                o Puchar Starosty Konińskiego - wyniki</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS"><a href="wyniki/mityngi/6KO12.TXT">&nbsp;<b><font color="#000000">-</font></b> 
+                Grand Prix Konina - wyniki końcowe</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS"><a href="wyniki/mityngi/SES1_P.LST">&nbsp;<b><font color="#000000">-</font></b> 
+                1 sesja protokoły</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS"><a href="wyniki/mityngi/SES2_P.LST">&nbsp;<b><font color="#000000">-</font></b> 
+                2 sesja protokoły</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS"><a href="wyniki/mityngi/SES1_CH.LST">&nbsp;<b><font color="#000000">-</font></b> 
+                1 sesja historie par</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS">
+                <a href="wyniki/mityngi/7mbzk_2ch.txt">&nbsp;<b><font color="#000000">-</font></b> 
+                2 sesja historie par</a></font></TD></TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> 
+                  <font face="Comic Sans MS">
+                  <a href="wyniki/mityngi/8mbzk/GPW.TXT">VIII Mityng Ziemi Konińskiej 2007 r.</a></font></b>
+                  </b>
+              </TD>
+            </tr>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS">
+                <a href="wyniki/mityngi/7mbzk_2ch.txt">&nbsp;<b><font color="#000000">-</font></b></a>
+                <a href="wyniki/mityngi/8mbzk/STAROSTA.TXT">o Puchar Starosty Konińskiego - wyniki</a></font></TD>
+            </tr>
+            <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="34" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="350" style="vertical-align: bottom" nowrap>
+                <font face="Comic Sans MS">
+                <a href="wyniki/mityngi/7mbzk_2ch.txt">&nbsp;<b><font color="#000000">-</font></b></a><a href="wyniki/mityngi/8mbzk/PREZYDEN.TXT"> 
+                o Puchar Prezydenta Konina - wyniki</a></font></TD>
+            </tr>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> 
+                  <font face="Comic Sans MS">
+                  <a href="http://michzimny.pl/bridge/2008/konin">IX Mityng 
+                  Ziemi Konińskiej 2008 r.</a></font></b>
+                  </b>
+              </TD>
+            </tr>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="366" style="vertical-align: bottom" nowrap colspan="2">
+                <LI> 
+                  <b> 
+                  <font face="Comic Sans MS">
+                  <a href="http://michzimny.pl/bridge/2009/konin/W-konin.html">X 
+                  Mityng Ziemi Konińskiej 2008 r</a><a href="http://michzimny.pl/bridge/2008/konin">.</a></font></b>
+                  </b>
+              </TD>
+            </tr>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="384" style="vertical-align: bottom" nowrap colspan="2">
+                &nbsp;</TD>
+              </TR>
+		    <tr>
+              <TD width="66" style="vertical-align: bottom" nowrap>
+                &nbsp;</TD>
+              <TD width="384" style="vertical-align: bottom" nowrap colspan="2">
+                &nbsp;</TD>
+              </TR>
+		</TABLE>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table></body>
+
+</html>

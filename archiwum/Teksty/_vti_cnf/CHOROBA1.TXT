@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|16 May 2005 07:37:58 -0000
+vti_extenderversion:SR|5.0.2.2623
+vti_lineageid:SR|{FDE25F4C-BD54-44CD-A3F4-877546D508F9}
+vti_backlinkinfo:VX|
+vti_author:SR|GDEMBINSKI\\Gdembinski
+vti_modifiedby:SR|GDEMBINSKI\\Gdembinski
+vti_nexttolasttimemodified:TR|26 Apr 2005 19:37:00 -0000
+vti_timecreated:TR|16 May 2005 07:37:58 -0000
+vti_cacheddtm:TX|16 May 2005 07:37:58 -0000
+vti_filesize:IR|100947

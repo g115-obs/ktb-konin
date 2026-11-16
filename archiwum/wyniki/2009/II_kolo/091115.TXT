@@ -1,0 +1,322 @@
+HOWELL : 11 RUND, 12 PAR
+------------------------------------------------------------------------------
+PILOTKA :
+
+ 1 EW>2 EW>5 NS>3 EW>5 EW>6 EW>2 NS>3 NS>6 NS>4 EW>4 NS
+
+POZYCJE STACJONARNE:  1 NS
+
+
+DROGOWSKAZY STOLIKOWE:
+
+ 1 NS > ===     2 NS > 3 NS    3 NS > 6 NS    4 NS > 1 EW    5 NS > 3 EW
+   EW > 2 EW      EW > 5 NS      EW > 5 EW      EW > 4 NS      EW > 6 EW
+
+ 6 NS > 4 EW
+   EW > 2 NS
+
+
+        MONITOR:
+RUNDA                     KOMPLET ROZDAN NR 
+       1     2     3     4     5     6     7     8     9    10    11
+----------------------------------------------------------------------
+ 1: *12-1    -    6-11   -     -     -    5-9   2-3  10-8    -    4-7 
+ 2:   5-8 *12-2    -    7-1    -     -     -    6-10  3-4  11-9    -  
+ 3:    -    6-9 *12-3    -    8-2    -     -     -    7-11  4-5   1-10
+ 4:   2-11   -    7-10*12-4    -    9-3    -     -     -    8-1   5-6 
+ 5:   6-7   3-1    -    8-11*12-5    -   10-4    -     -     -    9-2 
+ 6:  10-3   7-8   4-2    -    9-1 *12-6    -   11-5    -     -     -  
+ 7:    -   11-4   8-9   5-3    -   10-2 *12-7    -    1-6    -     -  
+ 8:    -     -    1-5   9-10  6-4    -   11-3 *12-8    -    2-7    -  
+ 9:    -     -     -    2-6  10-11  7-5    -    1-4 *12-9    -    3-8 
+10:   4-9    -     -     -    3-7  11-1   8-6    -    2-5 *12-10   -  
+11:    -    5-10   -     -     -    4-8   1-2   9-7    -    3-6 *12-11
+
+
+STOLIK NR 1 JEST OZNACZONY *                 (c) Jan Romanski 1987,1990,1993
+1      (czytac zegarowo od lewego gornego rogu)
+
+ 1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS \
+                                                              v
+                                         4 NS <  4 EW <  6 NS /
+
+
+
+
+2      (czytac zegarowo od lewego gornego rogu)
+
+ 4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS \
+                                                              v
+                                         4 EW <  6 NS <  3 NS /
+
+
+
+
+3      (czytac zegarowo od lewego gornego rogu)
+
+ 4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW \
+                                                              v
+                                         6 NS <  3 NS <  2 NS /
+
+
+
+
+4      (czytac zegarowo od lewego gornego rogu)
+
+ 6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW \
+                                                              v
+                                         3 NS <  2 NS <  6 EW /
+
+
+
+
+5      (czytac zegarowo od lewego gornego rogu)
+
+ 3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW \
+                                                              v
+                                         2 NS <  6 EW <  5 EW /
+
+
+
+
+6      (czytac zegarowo od lewego gornego rogu)
+
+ 2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS \
+                                                              v
+                                         6 EW <  5 EW <  3 EW /
+
+
+
+
+7      (czytac zegarowo od lewego gornego rogu)
+
+ 6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW \
+                                                              v
+                                         5 EW <  3 EW <  5 NS /
+
+
+
+
+8      (czytac zegarowo od lewego gornego rogu)
+
+ 5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW \
+                                                              v
+                                         3 EW <  5 NS <  2 EW /
+
+
+
+
+9      (czytac zegarowo od lewego gornego rogu)
+
+ 3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS \
+                                                              v
+                                         5 NS <  2 EW <  1 EW /
+
+
+
+
+10      (czytac zegarowo od lewego gornego rogu)
+
+ 5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW \
+                                                              v
+                                         2 EW <  1 EW <  4 NS /
+
+
+
+
+11      (czytac zegarowo od lewego gornego rogu)
+
+ 2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS \
+                                                              v
+                                         1 EW <  4 NS <  4 EW /
+1      (czytac zegarowo od lewego gornego rogu)
+
+ 1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS \
+                                                              v
+                                         4 NS <  4 EW <  6 NS /
+
+
+
+
+2      (czytac zegarowo od lewego gornego rogu)
+
+ 4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS \
+                                                              v
+                                         4 EW <  6 NS <  3 NS /
+
+
+
+
+3      (czytac zegarowo od lewego gornego rogu)
+
+ 4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW \
+                                                              v
+                                         6 NS <  3 NS <  2 NS /
+
+
+
+
+4      (czytac zegarowo od lewego gornego rogu)
+
+ 6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW \
+                                                              v
+                                         3 NS <  2 NS <  6 EW /
+
+
+
+
+5      (czytac zegarowo od lewego gornego rogu)
+
+ 3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW \
+                                                              v
+                                         2 NS <  6 EW <  5 EW /
+
+
+
+
+6      (czytac zegarowo od lewego gornego rogu)
+
+ 2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS \
+                                                              v
+                                         6 EW <  5 EW <  3 EW /
+
+
+
+
+7      (czytac zegarowo od lewego gornego rogu)
+
+ 6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW \
+                                                              v
+                                         5 EW <  3 EW <  5 NS /
+
+
+
+
+8      (czytac zegarowo od lewego gornego rogu)
+
+ 5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW \
+                                                              v
+                                         3 EW <  5 NS <  2 EW /
+
+
+
+
+9      (czytac zegarowo od lewego gornego rogu)
+
+ 3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS \
+                                                              v
+                                         5 NS <  2 EW <  1 EW /
+
+
+
+
+10      (czytac zegarowo od lewego gornego rogu)
+
+ 5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW \
+                                                              v
+                                         2 EW <  1 EW <  4 NS /
+
+
+
+
+11      (czytac zegarowo od lewego gornego rogu)
+
+ 2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS \
+                                                              v
+                                         1 EW <  4 NS <  4 EW /
+1      (czytac zegarowo od lewego gornego rogu)
+
+ 1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS \
+                                                              v
+                                         4 NS <  4 EW <  6 NS /
+
+
+
+
+2      (czytac zegarowo od lewego gornego rogu)
+
+ 4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS \
+                                                              v
+                                         4 EW <  6 NS <  3 NS /
+
+
+
+
+3      (czytac zegarowo od lewego gornego rogu)
+
+ 4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW >  6 EW \
+                                                              v
+                                         6 NS <  3 NS <  2 NS /
+
+
+
+
+4      (czytac zegarowo od lewego gornego rogu)
+
+ 6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW >  5 EW \
+                                                              v
+                                         3 NS <  2 NS <  6 EW /
+
+
+
+
+5      (czytac zegarowo od lewego gornego rogu)
+
+ 3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS >  3 EW \
+                                                              v
+                                         2 NS <  6 EW <  5 EW /
+
+
+
+
+6      (czytac zegarowo od lewego gornego rogu)
+
+ 2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW >  5 NS \
+                                                              v
+                                         6 EW <  5 EW <  3 EW /
+
+
+
+
+7      (czytac zegarowo od lewego gornego rogu)
+
+ 6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW >  2 EW \
+                                                              v
+                                         5 EW <  3 EW <  5 NS /
+
+
+
+
+8      (czytac zegarowo od lewego gornego rogu)
+
+ 5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS >  1 EW \
+                                                              v
+                                         3 EW <  5 NS <  2 EW /
+
+
+
+
+9      (czytac zegarowo od lewego gornego rogu)
+
+ 3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW >  4 NS \
+                                                              v
+                                         5 NS <  2 EW <  1 EW /
+
+
+
+
+10      (czytac zegarowo od lewego gornego rogu)
+
+ 5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS >  4 EW \
+                                                              v
+                                         2 EW <  1 EW <  4 NS /
+
+
+
+
+11      (czytac zegarowo od lewego gornego rogu)
+
+ 2 EW >  5 NS >  3 EW >  5 EW >  6 EW >  2 NS >  3 NS >  6 NS \
+                                                              v
+                                         1 EW <  4 NS <  4 EW /
+

@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<HEAD>
+<META http-equiv=Content-Language content=pl>
+<META content="Ogonki97 1.3" name=konwerter>
+<META http-equiv=content-type content="text/html; CHARSET=iso-8859-2"><LINK 
+href="System/style.css" type=text/css rel=stylesheet>
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+  <base target='strona'>
+  <title>Menu podstawowe</title>
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+
+
+var karty = new Array(
+////// Podaj ilość pozycji w poszczególnych menu:
+new karta(7),
+new karta(3),
+new karta(3)
+);
+
+
+var szybko = false;
+var czas = new Date();
+
+
+function display(id, wartosc)
+{
+  if (wartosc)
+  {
+    if (document.getElementById) document.getElementById(id).style.display = wartosc;
+    else if (document.all) document.all[id].style.display = wartosc;
+  }
+  else
+  {
+    var wart = "";
+    if (document.getElementById) wart = document.getElementById(id).style.display;
+    else if (document.all) wart = document.all[id].style.display;
+    return wart; 
+  }
+}
+
+function ukryj(id)
+{
+  for (var i = 0; i < karty[id].ilosc; i++) display("nr" + id + "_" + i, "none");
+  display("nr" + id, "none");
+  karty[id].rozwinieta = false;
+}
+
+var id_rozwin_zwin = 0;
+
+function rozwin_zwin(id, nr)
+{
+  if (!nr)
+  {
+    var nr = 0;
+    if (!karty[id].rozwinieta) for (var i = 0; i < karty.length; i++) if (i != id) ukryj(i);
+    czas = new Date();
+  }
+
+  if (nr < karty[id].ilosc)
+  {
+    if (karty[id].rozwinieta)
+    {
+      if (szybko) display("nr" + id + "_" + nr++, "none");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "none");
+    }
+    else
+    {
+      display("nr" + id, "block");
+      if (szybko) display("nr" + id + "_" + nr++, "block");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "block");
+    }
+  }
+
+  nr++;
+  clearTimeout(id_rozwin_zwin);
+  if (nr < karty[id].ilosc) id_rozwin_zwin = setTimeout('rozwin_zwin(' + id + ',' + nr + ')', 10);
+  else
+  {
+    if (karty[id].rozwinieta) display("nr" + id, "none");
+    if (!szybko && new Date() - czas > karty[id].ilosc*25) szybko = true;
+    else if (szybko && new Date() - czas < karty[id].ilosc*12) szybko = false;
+    karty[id].rozwinieta = (karty[id].rozwinieta ? false : true);
+  }
+}
+
+function karta(il)
+{
+  this.ilosc = il;
+  this.rozwinieta = true;
+}
+//-->
+</SCRIPT>
+<style type="text/css">
+<!--
+.style1 {font-size: 10px}
+.style2 {font-size: 10}
+-->
+</style>
+
+<meta name="Microsoft Border" content="l, default">
+</HEAD>
+
+
+
+
+
+<BODY bgColor=#f6f5f6 leftMargin=6 topMargin=20 ><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>&nbsp;</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+
+
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" bgColor=#f6f5f6>
+							
+		<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<A href="home.htm">Strona Główna</A></TD></TR>
+        <TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<A href="nowosci.htm">Nowości</A></TD></TR>
+</TABLE>
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" bgColor=#f6f5f6>
+		<TR>
+		  <TD style="padding: 2px" width="125">
+		  <IMG alt="" src="System/bip.gif" 
+		    border=0 width="3" height="8">&nbsp;<A HREF="javascript:void(null)" onfocus="blur()" onclick="rozwin_zwin(0); parent.strona.location='ktb.htm'; return false">KTB</A></td></tr>
+</TABLE>
+	<DIV ID="nr0">
+		<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" bgColor=#f6f5f6>
+			<TR><TD width="125"><DIV ID="nr0_0"><LI> <a href="ktb_konto.htm">Konto</a></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_1"><LI> 
+              <a href="KTB/Statut.rtf">Statut</a></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_2"><LI> <A href="KTB/Delkaracja.rtf">Deklaracja</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_3"><LI> <A href="ktb_zarzad.htm">Zarząd</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_4"><LI> <A href="ktb_czlonkowie.htm">Członkowie</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_5"><LI> <A href="ktb_dokumenty.htm">Dokumenty</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr0_6"><LI> <A href="ktb_info.htm">Informacje</A></DIV></TD></TR>
+		</TABLE>
+	</DIV>
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+ukryj(0);
+//-->
+</SCRIPT>
+
+
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" bgColor=#f6f5f6 height="0">
+	<tr>
+	<TD style="padding: 2px" width="125">
+	<IMG alt="" src="System/bip.gif"
+	  border=0 width="3" height="8">&nbsp;<A HREF="javascript:void(null)" onfocus="blur()" onclick="rozwin_zwin(1); parent.strona.location='systemy.htm'; return false">Systemy</A</td></tr>
+</TABLE>	
+
+	<DIV ID="nr1">
+		<TABLE WIDTH="125" BORDER="0" CELLSPACING="2" CELLPADDING="0" bgColor=#f6f5f6>
+
+			<TR><TD width="125"><DIV ID="nr1_0"><LI><a href="ns.htm">NS</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr1_1"><LI><a href="wj.htm">Wspólny Język</A></DIV></TD></TR>
+			<TR><TD width="125"><DIV ID="nr1_2"><LI><a href="sayc.htm">SAYC</A></DIV></TD></TR>
+			
+		</TABLE>
+	</DIV>
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+ukryj(1);
+//-->
+</SCRIPT>
+
+
+	<TABLE WIDTH="123" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a href="kalendarz_2010.htm">Kalendarz</a></TD></TR>
+	</TABLE>
+
+<TABLE WIDTH="125" BORDER="0" CELLSPACING="0" CELLPADDING="0" bgColor=#f6f5f6>
+		<tr>
+	<TD style="padding: 2px" width="125">
+	<IMG alt="" src="System/bip.gif"
+	  border=0 width="3" height="8">&nbsp;<A HREF="javascript:void(null)" onfocus="blur()" onclick="rozwin_zwin(2); parent.strona.location='wyniki.htm'; return false">Wyniki</A></td></tr>
+</TABLE>
+
+	<DIV ID="nr2">
+		<TABLE WIDTH="125" BORDER="0" CELLSPACING="2" CELLPADDING="0" bgColor=#f6f5f6>
+
+			<TR><TD width="125" nowrap><DIV ID="nr2_0"><LI><a href="mmk.htm">Mistrzostwa Konina</a></DIV></TD></TR>
+			<TR><TD width="125" nowrap><DIV ID="nr2_1"><LI><a href="kmb.htm">Mityng Brydżowy</a></DIV></TD></TR>
+			<TR><TD width="125" nowrap><DIV ID="nr2_2"><LI><a href="wtorki.htm">Bieżące</a></DIV></TD></TR>
+			
+		</TABLE>
+	</DIV>
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+ukryj(2);
+//-->
+</SCRIPT>
+
+	<TABLE WIDTH="125" BORDER="0" CELLSPACING="0" CELLPADDING="0">    
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a href="liga.htm">Liga</a><BR></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a href="zawodnicy.htm">Zawodnicy</a><BR></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a target="strona" href="mlodziez.htm">Młodzież </a><BR></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a href="teczka.htm">Teczka</a></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8"> <a href="swiat.htm">Świat</a></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8"> <a href="linki.htm">Linki</a></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a href="galeria.htm">Galeria</a><BR></TD></TR>
+	<TR>
+          <TD style="padding: 2px" width="125">
+          <IMG alt="" src="System/bip.gif" 
+            border=0 width="3" height="8">&nbsp;<a target="strona" href="kontakt.htm">Kontakt</a><BR><BR></TD></TR>
+
+	</TABLE>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table></BODY></HTML>

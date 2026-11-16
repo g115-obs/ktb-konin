@@ -1,0 +1,294 @@
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 1  T Felczak-M Skrzypczak        0.5 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   3 G Dembiñski-M Gi¿a            8.0 KP       5  NS   +630       36.00
+                                                6  NS   +980       28.00
+                                                7  NS        -100  10.00
+                                                8  NS        -300   5.00
+   5 A Go³ygowski-R Pa³asz         6.5 KP       9  NS        -620  27.00
+                                               10  NS        -600  12.00
+                                               11  NS   +100       16.00
+                                               12  NS        -100  15.00
+   7 E Furs-W Wendowski            4.0 KP/WP   13  EW   -170       22.00
+                                               14  EW    -50       20.00
+                                               15  EW        +400  28.00
+                                               16  EW   -420       11.00
+   2 S Maciejewski-M Pancer        2.5 WP      17  NS         -50  15.00
+                                               18  NS    +50       25.00
+                                               19  NS        -100  27.00
+                                               20  NS        -300  14.00
+   4 K Ho³ysz-T Krysztofowicz          WP      21  EW        +200  26.00
+                                               22  EW   -110       21.00
+                                               23  EW   -200        9.00
+                                               24  EW        +130  22.00
+   6 A Bednarski-K Kowalski        1.0 WP      25  EW       +1430  38.00
+                                               26  EW   -200       22.00
+                                               27  EW        +130  28.00
+                                               28  EW        +430  36.00
+                                                                   ------
+ROZDANIA NIE GRANE:   1  2  3  4                         WYNIK    513.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    513.00
+                                                                %= 53.44
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 2  S Maciejewski-M Pancer        2.5 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   7 E Furs-W Wendowski            4.0 KP/WP    1  EW        +140  14.00
+                                                2  EW   -300        8.00
+                                                3  EW   -100       14.00
+                                                4  EW   -620       11.00
+   4 K Ho³ysz-T Krysztofowicz          WP       9  NS        -800  10.00
+                                               10  NS        -600  12.00
+                                               11  NS    +50       10.00
+                                               12  NS   +150       32.00
+   6 A Bednarski-K Kowalski        1.0 WP      13  NS   +620       36.00
+                                               14  NS    +50       20.00
+                                               15  NS        -400  12.00
+                                               16  NS   +420       29.00
+   1 T Felczak-M Skrzypczak        0.5 WP      17  EW         +50  25.00
+                                               18  EW    -50       15.00
+                                               19  EW        +100  13.00
+                                               20  EW        +300  26.00
+   3 G Dembiñski-M Gi¿a            8.0 KP      21  NS        -150  22.00
+                                               22  NS   +100       17.00
+                                               23  NS   +100       23.00
+                                               24  NS         -50  26.00
+   5 A Go³ygowski-R Pa³asz         6.5 KP      25  EW        +680  13.00
+                                               26  EW   -500        8.00
+                                               27  EW   -140        8.00
+                                               28  EW    -50       12.00
+                                                                   ------
+ROZDANIA NIE GRANE:   5  6  7  8                         WYNIK    416.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    416.00
+                                                                %= 43.33
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 3  G Dembiñski-M Gi¿a            8.0 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   6 A Bednarski-K Kowalski        1.0 WP       1  EW        +140  14.00
+                                                2  EW        +200  32.00
+                                                3  EW    -90       16.00
+                                                4  EW   -620       11.00
+   1 T Felczak-M Skrzypczak        0.5 WP       5  EW   -630        4.00
+                                                6  EW   -980       12.00
+                                                7  EW        +100  30.00
+                                                8  EW        +300  35.00
+   5 A Go³ygowski-R Pa³asz         6.5 KP      13  NS        -100   6.00
+                                               14  NS    +50       20.00
+                                               15  NS    +50       36.00
+                                               16  NS        -180   2.00
+   7 E Furs-W Wendowski            4.0 KP/WP   17  NS   +400       36.00
+                                               18  NS         -90  10.00
+                                               19  NS         -50  33.00
+                                               20  NS        -100  32.00
+   2 S Maciejewski-M Pancer        2.5 WP      21  EW        +150  18.00
+                                               22  EW   -100       23.00
+                                               23  EW   -100       17.00
+                                               24  EW         +50  14.00
+   4 K Ho³ysz-T Krysztofowicz          WP      25  NS        -650  31.00
+                                               26  NS   +100       10.00
+                                               27  NS        -110  16.00
+                                               28  NS    +50       28.00
+                                                                   ------
+ROZDANIA NIE GRANE:   9 10 11 12                         WYNIK    486.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    486.00
+                                                                %= 50.63
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 4  K Ho³ysz-T Krysztofowicz          WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   5 A Go³ygowski-R Pa³asz         6.5 KP       1  NS        -430   8.00
+                                                2  NS   +100       20.00
+                                                3  NS         -50  10.00
+                                                4  NS        -100   2.00
+   7 E Furs-W Wendowski            4.0 KP/WP    5  EW   -140       22.00
+                                                6  EW   -480       36.00
+                                                7  EW   -200       11.00
+                                                8  EW   -500        2.00
+   2 S Maciejewski-M Pancer        2.5 WP       9  EW        +800  30.00
+                                               10  EW        +600  28.00
+                                               11  EW    -50       30.00
+                                               12  EW   -150        8.00
+   6 A Bednarski-K Kowalski        1.0 WP      17  NS        -100   9.00
+                                               18  NS    +50       25.00
+                                               19  NS        -930   0.00
+                                               20  NS        -300  14.00
+   1 T Felczak-M Skrzypczak        0.5 WP      21  NS        -200  14.00
+                                               22  NS   +110       19.00
+                                               23  NS   +200       31.00
+                                               24  NS        -130  18.00
+   3 G Dembiñski-M Gi¿a            8.0 KP      25  EW        +650   9.00
+                                               26  EW   -100       30.00
+                                               27  EW        +110  24.00
+                                               28  EW    -50       12.00
+                                                                   ------
+ROZDANIA NIE GRANE:  13 14 15 16                         WYNIK    412.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    412.00
+                                                                %= 42.92
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 5  A Go³ygowski-R Pa³asz         6.5 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   4 K Ho³ysz-T Krysztofowicz          WP       1  EW        +430  32.00
+                                                2  EW   -100       20.00
+                                                3  EW         +50  30.00
+                                                4  EW        +100  38.00
+   6 A Bednarski-K Kowalski        1.0 WP       5  NS        -100   6.00
+                                                6  NS   +980       28.00
+                                                7  NS    +90       21.00
+                                                8  NS        -100  17.00
+   1 T Felczak-M Skrzypczak        0.5 WP       9  EW        +620  13.00
+                                               10  EW        +600  28.00
+                                               11  EW   -100       24.00
+                                               12  EW        +100  25.00
+   3 G Dembiñski-M Gi¿a            8.0 KP      13  EW        +100  34.00
+                                               14  EW    -50       20.00
+                                               15  EW    -50        4.00
+                                               16  EW        +180  38.00
+   7 E Furs-W Wendowski            4.0 KP/WP   21  NS        -140  24.00
+                                               22  NS   +140       24.00
+                                               23  NS        -300   6.00
+                                               24  NS        -140  16.00
+   2 S Maciejewski-M Pancer        2.5 WP      25  NS        -680  27.00
+                                               26  NS   +500       32.00
+                                               27  NS   +140       32.00
+                                               28  NS    +50       28.00
+                                                                   ------
+ROZDANIA NIE GRANE:  17 18 19 20                         WYNIK    567.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    567.00
+                                                                %= 59.06
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 6  A Bednarski-K Kowalski        1.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   3 G Dembiñski-M Gi¿a            8.0 KP       1  NS        -140  26.00
+                                                2  NS        -200   8.00
+                                                3  NS    +90       24.00
+                                                4  NS   +620       29.00
+   5 A Go³ygowski-R Pa³asz         6.5 KP       5  EW        +100  34.00
+                                                6  EW   -980       12.00
+                                                7  EW    -90       19.00
+                                                8  EW        +100  23.00
+   7 E Furs-W Wendowski            4.0 KP/WP    9  NS        -650  23.00
+                                               10  NS        -120  36.00
+                                               11  NS   +500       34.00
+                                               12  NS        -110  13.00
+   2 S Maciejewski-M Pancer        2.5 WP      13  EW   -620        4.00
+                                               14  EW    -50       20.00
+                                               15  EW        +400  28.00
+                                               16  EW   -420       11.00
+   4 K Ho³ysz-T Krysztofowicz          WP      17  EW        +100  31.00
+                                               18  EW    -50       15.00
+                                               19  EW        +930  40.00
+                                               20  EW        +300  26.00
+   1 T Felczak-M Skrzypczak        0.5 WP      25  NS       -1430   2.00
+                                               26  NS   +200       18.00
+                                               27  NS        -130  12.00
+                                               28  NS        -430   4.00
+                                                                   ------
+ROZDANIA NIE GRANE:  21 22 23 24                         WYNIK    492.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    492.00
+                                                                %= 51.25
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2008-02-26
+tabelka
+
+WYNIKI PARY NR 7  E Furs-W Wendowski            4.0 KP/WP
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   2 S Maciejewski-M Pancer        2.5 WP       1  NS        -140  26.00
+                                                2  NS   +300       32.00
+                                                3  NS   +100       26.00
+                                                4  NS   +620       29.00
+   4 K Ho³ysz-T Krysztofowicz          WP       5  NS   +140       18.00
+                                                6  NS   +480        4.00
+                                                7  NS   +200       29.00
+                                                8  NS   +500       38.00
+   6 A Bednarski-K Kowalski        1.0 WP       9  EW        +650  17.00
+                                               10  EW        +120   4.00
+                                               11  EW   -500        6.00
+                                               12  EW        +110  27.00
+   1 T Felczak-M Skrzypczak        0.5 WP      13  NS   +170       18.00
+                                               14  NS    +50       20.00
+                                               15  NS        -400  12.00
+                                               16  NS   +420       29.00
+   3 G Dembiñski-M Gi¿a            8.0 KP      17  EW   -400        4.00
+                                               18  EW         +90  30.00
+                                               19  EW         +50   7.00
+                                               20  EW        +100   8.00
+   5 A Go³ygowski-R Pa³asz         6.5 KP      21  EW        +140  16.00
+                                               22  EW   -140       16.00
+                                               23  EW        +300  34.00
+                                               24  EW        +140  24.00
+                                                                   ------
+ROZDANIA NIE GRANE:  25 26 27 28                         WYNIK    474.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    474.00
+                                                                %= 49.38
+

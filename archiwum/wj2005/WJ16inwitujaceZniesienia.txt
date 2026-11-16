@@ -1,0 +1,872 @@
+<script src="/popup_DEFAULT_006.js" DEFER></script>
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+   <meta name="Author" content="Marek Rajca">
+   <meta name="GENERATOR" content="Mozilla/4.7 [pl] (Win98; I) [Netscape]">
+   <title>WJ32aInwitujaceZniesienia</title>
+</head>
+<body text="#000000" bgcolor="#CCFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000">
+<b><font color="#FF6666"><font size=+2>Wspólny
+Język 16</font></font></b>
+<br><b><font color="#3333FF"><font size=+2>Bezpieczne inwity - ciąg dalszy:</font></font></b>
+<br><b><i><font color="#009900"><font size=+2>Inwitujące zniesienia</font></font></i></b>
+<br><font size=+1><b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>/<b><font face="Symbol">Ş</font></b></font>
+<br><font size=+1>Popatrzmy na takie rozdanie:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>6</font>
+<br><font size=+1>D 10 9</font>
+<br><font size=+1>K D 9 8 6</font>
+<br><font size=+1>K D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K D 10 7 5 4</font>
+<br><font size=+1>W 6 5</font>
+<br><font size=+1>A 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>.</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>1<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>2<font face="Symbol">§</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>3<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>3<b><font face="Symbol">Ş </font></b>= inwit do końcówki</font>
+<br><font size=+1>Szanse wygrania tego kontraktu nie są zbyt duże (~18%).</font>
+<br><font size=+1>Przykro jest oddawać zapis przeciwnikom, gdy mamy wyraźną
+przewagę siły.</font>
+<br><font size=+1>Jednak przy takich rękach WE:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 6</font>
+<br><font size=+1>A 10&nbsp;</font>
+<br><font size=+1>W 10 8 7 6</font>
+<br><font size=+1>K D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K D 10 7 5 4</font>
+<br><font size=+1>W 6 5</font>
+<br><font size=+1>A 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>zdecydowanie chcielibyśmy grać końcówkę 3BA lub 4<b><font face="Symbol">Ş</font></b>.</font>
+<br><font size=+1>Jak więc zatrzymać się w kontrakcie 2<b><font face="Symbol">Ş</font></b>
+w przypadku pierwszym, a zagrać końcówkę w drugim?</font>
+<br><font size=+1>&nbsp; Otóż proponujemy zrezygnować z forsującego zniesienia
+2<b><font face="Symbol"><font color="#FF0000">©</font></font></b>/<b><font face="Symbol">Ş</font></b>
+i nadać tym odzywkom charakter inwitu do końcówki na kolorze 6+.</font>
+<table BORDER COLS=2 WIDTH="24%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><font size=+1><b>1<font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b></font></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol"><font color="#FF0000">©</font></font>/<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>2<b><font face="Symbol">Ş</font></b> - inwitujące zniesienie</font>
+<p><font size=+1>Popatrzmy na fit trzykartowy u otwierającego:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 6 3</font>
+<br><font size=+1>3&nbsp;</font>
+<br><font size=+1>K 10 8 7 6</font>
+<br><font size=+1>K D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K D 10 7 5 4</font>
+<br><font size=+1>W 6 5</font>
+<br><font size=+1>A 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>Weźmiemy raczej bezproblemowo 11 lew.</font>
+<br><font size=+1>Jeszcze jeden „eksperyment”:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>3</font>
+<br><font size=+1>A 9 3&nbsp;</font>
+<br><font size=+1>K 10 8 7 6</font>
+<br><font size=+1>A D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K 9 8 7 5 4</font>
+<br><font size=+1>W 6 5</font>
+<br><font size=+1>A 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>Przy tak słabych pikach już 2<b><font face="Symbol">Ş</font></b>
+możemy przegrać.</font>
+<br><font size=+1>A teraz:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 3 2</font>
+<br><font size=+1>3&nbsp;</font>
+<br><font size=+1>K 10 8 7 6</font>
+<br><font size=+1>A D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>W 10 8 7 5 4</font>
+<br><font size=+1>A 6 5</font>
+<br><font size=+1>A 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>Dzięki temu, że mamy 9 atutów, a piki E są słabe,&nbsp; nawet
+szlemik pikowy jest możliwy.</font>
+<br><font size=+1>Przesuńmy w ręku E punkty karowe do pików.</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 3 2</font>
+<br><font size=+1>3&nbsp;</font>
+<br><font size=+1>K 10 8 7 6</font>
+<br><font size=+1>A D 9 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K 9 8 7 5 4</font>
+<br><font size=+1>A W 5</font>
+<br><font size=+1>5 2</font>
+<br><font size=+1>W 10</font></td>
+</tr>
+</table>
+<font size=+1>Siła połączonych rąk zmalała, ale końcówka pikowa jest nadal
+bardzo dobrym kontraktem.</font>
+<br><font size=+1>Z powyższych przykładów wynikają dosyć oczywiste – zwłaszcza
+dla zaawansowanego brydżysty - wnioski:</font>
+<br><font size=+1>1. Singleton w zasadniczym longerze partnera <b>bardzo
+wyraźnie obniża bilans</b> połączonych rąk.</font>
+<br><font size=+1>2. Fit w kolorze partnera przy singletonie bocznym <b>bardzo
+wyraźnie podnosi bilans</b> połączonych rąk.</font>
+<br><font size=+1>3. Figurę w kolorze partnera oceniać należy wyżej, niż
+figurę w kolorze bocznym.</font>
+<br><font size=+1>4. Przy 9+ atutach lepiej dla bilansu jest, gdy kolor
+ten nie jest zbyt przeinwestowany w figury.</font>
+<br><font size=+1>5. Bardzo ważna jest informacja o dziewiątym atucie,
+gdyż ten znacznie podnosi bilans połączonych rąk. Jest to jednocześnie
+kolejna przesłanka, ku szybkiej informacji o sześciokarcie. Należy też
+mieć świadomość, iż potencjał ofensywny koloru rozłożonego 6-1 jest znacznie
+większy od rozłożonego 5-2. Między innym dlatego pojawiły się otwarcia
+2<b><font face="Symbol"><font color="#FF0000">©</font></font></b>/<b><font face="Symbol">Ş</font></b>
+– słabe dwa.</font>
+<br><font size=+1>Powyższe rozważania dają nam przesłankę, by omawiana
+sekwencja:</font>
+<table BORDER COLS=2 WIDTH="26%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><font size=+1><b>1<font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b></font></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol"><font color="#FF0000">©</font></font>/<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>nie była aż tak silnie zlimitowana (inwit, 10-11 PC). Przedział
+siły tej zapowiedzi można rozszerzyć</font>
+<br><font size=+1>do 9(8)-11 PC. Bowiem, jeśli sześciokart trafi w singla,
+należy spasować nawet, gdy mamy ok. 14-15 PC. Zaś z fitem trzykartowym
+(9 atutów) trzeba podjąć próbę końcówki nawet z ładnymi 12 PC.</font>
+<br><font size=+1>Jak ważny jest fit niech zaświadczy problem panelowy
+z miesięcznika Le Bridgeur:</font>
+<br><font size=+1>Partner otworzył 2<b><font face="Symbol">Ş</font></b>
+– słabe dwa. Co licytujesz z kartą:</font>
+<table BORDER COLS=1 WIDTH="12%" BGCOLOR="#66FFFF" >
+<tr>
+<td><font size=+1>-</font>
+<br><font size=+1>K D 7 5</font>
+<br><font size=+1>K D W 4</font>
+<br><font size=+1>A K 8 5 2</font></td>
+</tr>
+</table>
+<font size=+1>Niemal wszyscy eksperci spasowali.</font>
+<p><font size=+1>Rozszerzając przedział siły inwitującego zniesienia 2<b><font face="Symbol"><font color="#FF0000">©</font></font></b>/<b><font face="Symbol">Ş</font></b>
+zwiększymy dwukrotnie frekwencję takich akcji.</font>
+<br><font size=+1>Otóż, łatwo dostrzec dodatkowe zalety proponowanego rozwiązania:</font>
+<br><font size=+1>- blokowanie licytacji przeciwników. Wejście do licytacji
+II-go obrońcy staje się niezwykle niebezpieczne,</font>
+<br><font size=+1>- ułatwione bilansowanie rąk w licytacji dwustronnej,
+np. przy ustaleniach tradycyjnych, w sekwencji:</font>
+<table BORDER COLS=4 WIDTH="26%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>N</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>S</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>pas</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>1<font face="Symbol">Ş</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">§</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>pas</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>3<font face="Symbol">§</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>3<font face="Symbol">Ş</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>pas</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>Otwierający nie wie, czy partner przepycha się mając np.
+rękę a):</font>
+<table BORDER COLS=3 WIDTH="47%" BGCOLOR="#CCFFFF" >
+<tr>
+<td BGCOLOR="#66FFFF"><font size=+1>K W 10 8 6 5</font>
+<br><font size=+1>D 7</font>
+<br><font size=+1>K 4</font>
+<br><font size=+1>8 5 2</font></td>
+
+<td BGCOLOR="#FFCCCC"><b>&nbsp;a)</b>
+<br>&nbsp;
+<div align=right><b>b)&nbsp;</b></div>
+</td>
+
+<td BGCOLOR="#66FFFF"><font size=+1>K W 10 8 6 5</font>
+<br><font size=+1>A 7</font>
+<br><font size=+1>D 4</font>
+<br><font size=+1>8 5 2</font></td>
+</tr>
+</table>
+<font size=+1>czy inwituje końcówkę z reką b).</font>
+<br><font size=+1>Stosując zaś zaproponowane tu rozwiązanie, pozbędziemy
+się tych kłopotów.</font>
+<br><font size=+1>Jednak przy ręce minimalnej tj. 8 PC, powinniśmy mieć
+kartę urodziwą z niezłym kolorem, np.:</font>
+<table BORDER COLS=1 WIDTH="15%" BGCOLOR="#66FFFF" >
+<tr>
+<td><font size=+1>K 10 9 8 6 5</font>
+<br><font size=+1>A 7</font>
+<br><font size=+1>W 10 2</font>
+<br><font size=+1>8 5</font></td>
+</tr>
+</table>
+<font size=+1>Po otwarciu 1<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>,
+możemy z tą kartą zgłosić 2<b><font face="Symbol">Ş</font></b>. Wprawdzie
+mamy tylko 8PC, ale bardzo dobrze zlokalizowane, konfiguracja W10x w kolorze
+otwarcia jest dużym plusem, dobry jest też kolor pikowy. Proszę zauważyć,
+że jeśli ta ręka trafi do:</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 3 2</font>
+<br><font size=+1>9 8 3&nbsp;</font>
+<br><font size=+1>A 9 8 7 6</font>
+<br><font size=+1>A 6</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K 10 9 8 6 5</font>
+<br><font size=+1>A 7</font>
+<br><font size=+1>W 10 2</font>
+<br><font size=+1>8 5</font></td>
+</tr>
+</table>
+<font size=+1>Właściwą jest końcówka pikowa.</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>W ma bardzo urodziwą kartę, znakomitą do gry kolorowej: 12
+PC + 1 pkt (za dziewiąty atut) + 1 pkt</font>
+<br><font size=+1>(za dubletona trefl) + 1 pkt (za szybkie lewy) = 15 pkt,
+a więc pełna lewa nadwyżki. A tak naprawdę dziewiąty atut jest wart nieco
+więcej niż 1 pkt. To prawda, karta jest wyjątkowo dobrze sfitowana – wszystkie
+honory tworzą bazę (są grające). I to dlatego końcówka jest tu dobra mimo
+tylko 20 PC i&nbsp; braku singletona. Przypominamy kolejny raz:</font>
+<table BORDER COLS=1 WIDTH="80%" BGCOLOR="#FFCCCC" >
+<tr>
+<td>
+<center><b><font color="#000099"><font size=+1>Podstawą sukcesów brydżowych
+jest umiejętność oceny karty</font></font></b></center>
+</td>
+</tr>
+</table>
+
+<p><font size=+1>Dla spójności systemu <i>inwitujące zniesienie</i> będziemy
+stosować po każdym otwarciu, tj. w sekwencjach:</font>
+<table BORDER COLS=8 WIDTH="75%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W1</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E1</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><b><font size=+1>W2</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E2</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><b><font size=+1>W3</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E3</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">©</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><font size=+1><b>2<font face="Symbol"><font color="#FF0000">©Š</font></font></b>/<b><font face="Symbol">Ş</font></b></font></center>
+</td>
+
+<td>&nbsp;</td>
+
+<td>
+<center><b><font size=+1>1<font face="Symbol">§</font></font></b></center>
+</td>
+
+<td>
+<center><font size=+1><b>2<font face="Symbol"><font color="#FF0000">©Š</font></font></b>/<b><font face="Symbol">Ş</font></b></font></center>
+</td>
+</tr>
+</table>
+
+<p><font size=+1>Takie rozwiązanie wymaga rezygnacji ze stosowanego od
+zarania forsującego zniesienia.</font>
+<br><font size=+1>Z silną ręką będziemy zmuszeni dać najpierw skromną odpowiedź
+one over one (1<b><font face="Symbol"><font color="#FF0000">©Š</font></font></b>/<b><font face="Symbol">Ş</font></b>),</font>
+<br><font size=+1>a później sforsować licytację skokiem (3<b><font face="Symbol"><font color="#FF0000">©Š</font></font></b>/<b><font face="Symbol">Ş</font></b>
+z bardzo dobrym kolorem)</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">©</font></font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>2<font face="Symbol">§</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>3<font face="Symbol"><font color="#FF0000">©</font></font></font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>lub zastosować inną forsującą odzywkę (magister, czwarty
+kolor - z przeciętnym kolorem).</font>
+<p><font size=+1>Jak licytować dalej?</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol">§</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>2BA – co najmniej inwit do końcówki, zapewnia fit 2+;</font>
+<br><font size=+1>3<b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+– naturalne, 5+ a wiec silny wariant otwarcia 1<b><font face="Symbol">§</font></b>;</font>
+<br><font size=+1>3<b><font face="Symbol">Ş</font></b> – inwit ogólny,
+tak licytujmy z trzykartowym fitem (partner mając tę informację właściwie
+oceni</font>
+<br><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kolor atutowy);</font>
+<br><font size=+1>3BA – do gry;</font>
+<br><font size=+1>4<b><font face="Symbol">§</font></b> – kolor i fit, aspiracje,
+nie jest to ręka przesadnie silna (do 17 PC). Z większa siłą i fitem lepiej</font>
+<br><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; przejąć inicjatywę
+odzywka 2BA;</font>
+<br><font size=+1>4<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>–
+splinter, 3+ piki i trefle bokiem, siła do 17 PC;</font>
+<br><font size=+1>4BA – Blackwood.</font>
+<p><font size=+1>Naturalny schemat odpowiedzi obowiązuje także po innych
+otwarciach, np.:</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>Z minimum:</font>
+<br><font size=+1><b>pas</b> – przy singletonie nawet z lekką nadwyżką,</font>
+<br><font size=+1>3<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>
+– stary kolor, nie forsuje, ale partner z uzupełnieniem i nadwyżką powinien
+licytować;</font>
+<p><font size=+1>Z nadwyżką:</font>
+<br><font size=+1>2BA – pytający relay, obiecuje 2+ karty w kolorze odpowiedzi.</font>
+<br><font size=+1>3<b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+– nowy kolor, niekiedy ze zgrupowania, forsuje.</font>
+<br><font size=+1>3<b><font face="Symbol">Ş</font></b> – inwit ogólny,
+tak licytujmy z trzykartowym fitem (partner mając tę informację właściwie
+oceni kolor atutowy).</font>
+<br><font size=+1>3BA – do gry.</font>
+<br><font size=+1>4<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>
+- kolor plus fit, aspiracje.</font>
+<br><font size=+1>4<b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+- splinter.</font>
+<br>&nbsp;
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>2BA</font></b></center>
+</td>
+
+<td>
+<center>&nbsp;<b><font size=+1>?</font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>Przyjmujemy wariant naturalny.</font>
+<br><b><font size=+1>Z minimum:</font></b>
+<br><font size=+1>3<b><font face="Symbol">Ş</font></b>- powtórzenie koloru
+wskazuje minimum siły, ale jak już wiemy z poprzednich rozważań,</font>
+<br><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kolor jest
+wtedy co najmniej niezły.</font>
+<br><b><font size=+1>Z maksimum:</font></b>
+<br><font size=+1>3<b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+– lokalizacyjne, wskazanie wysokiej figury,</font>
+<br><font size=+1>3BA – maksimum, wszystko w pikach, czyli modelowo pełny
+kolor (AKDxxx).</font>
+<br><font size=+1>4<b><font face="Symbol">§</font></b>/<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>/<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+– <i>autosplinter</i>, maksimum.</font>
+<br><font size=+1>4<b><font face="Symbol">Ş</font></b> – siedem pików.</font>
+<p><font size=+1>Po odpowiedzi nadwyżkowej, końcówka jest przesądzona.
+Na odpowiedź wskazującą minimum siły</font>
+<br><font size=+1>(tu 3<b><font face="Symbol">Ş</font></b>) otwierający
+może spasować.</font>
+<br><font size=+1>Przykład</font>
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>7</font>
+<br><font size=+1>K D 7 4</font>
+<br><font size=+1>A D 9 8 5</font>
+<br><font size=+1>A 8 7</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>A K 10 8 5 4</font>
+<br><font size=+1>9 7</font>
+<br><font size=+1>7 2</font>
+<br><font size=+1>K 5 4</font></td>
+</tr>
+</table>
+<font size=+1>.</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>Pas jest jak najbardziej poprawną decyzją. Dograna 3BA jest
+sensowna tylko przy zastaniu</font>
+<br><font size=+1>u odpowiadającego maksimum siły i uzupełnienia karowego.&nbsp;
+Proszę zwrócić uwagę, że także</font>
+<br><font size=+1>w licytacji klasycznej po odpowiedzi 1<b><font face="Symbol">Ş</font></b>
+nie uzyskamy obu tych kluczowych informacji.</font>
+<br>&nbsp;
+<table BORDER COLS=3 WIDTH="44%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>A 4 2</font>
+<br><font size=+1>W 9 8 4</font>
+<br><font size=+1>A K D W 5&nbsp;</font>
+<br><font size=+1>9</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>K D 9 7 6 5</font>
+<br><font size=+1>7</font>
+<br><font size=+1>8 2</font>
+<br><font size=+1>A 8 5 4</font></td>
+</tr>
+</table>
+<font size=+1>.</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>2BA</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>&nbsp;4<font face="Symbol"><font color="#FF0000">©</font></font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>4BA</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>5<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>6<font face="Symbol">Ş</font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>pas</font></b></center>
+</td>
+</tr>
+</table>
+<font size=+1>4<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+– splinter, mamy tylko 9 PC, ale układ 6-4, znakomite wartości do gry kolorowej
+zdecydowanie nakazują zakwalifikować te kartę do nadwyżkowej.</font>
+<p><b><font size=+1>Jak licytować z misfitem w kolorze odpowiedzi?</font></b>
+<p><font size=+1>1. <b>Z niezbyt wyraźną nadwyżką</b> – pasujemy. Ewentualnie,
+z dobrym długim kolorem otwarcia, powtarzamy ten kolor. Nie jest to zupełny
+sign-off, bo jeśli partner ma dwie pozytywne wiadomości: uzupełnienie w
+kolorze partnera i nadwyżkę w sile, powinien licytację podtrzymać</font>
+<br><font size=+1>2. <b>Z wyraźną nadwyżką</b> – zwykle zgłosimy 3BA. Jednak
+z ręką wyraźnie układową, zgłaszamy boczny kolor wnosząc zainteresowanie
+grą w kolor własny. Dalsza licytacja jest zdroworozsądkowa, a więc oparta
+o dyrektywy licytacji naturalnej. Taka akcja będzie niezwykle rzadka, praktycznie
+może mieć miejsce u par grających otwarciem 1<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>
+o pełnej strefie siły (12-20/21 PC).</font>
+<p><font size=+1>Przykład</font>
+<table BORDER COLS=3 WIDTH="57%" BGCOLOR="#66FF99" >
+<tr>
+<td><font size=+1>-</font>
+<br><font size=+1>A K 8 3</font>
+<br><font size=+1>A D W 9 8 3&nbsp;</font>
+<br><font size=+1>D W 3</font></td>
+
+<td>
+<center><font size=+1>W---E</font></center>
+</td>
+
+<td><font size=+1>D W 9 7 6 5</font>
+<br><font size=+1>5 4</font>
+<br><font size=+1>K 6 2</font>
+<br><font size=+1>A 8</font></td>
+</tr>
+</table>
+<font size=+1>.</font>
+<table BORDER COLS=2 WIDTH="19%" BGCOLOR="#FFFF99" >
+<tr>
+<td>
+<center><b><font size=+1>W</font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>E</font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>1<font face="Symbol"><font color="#FF0000">¨</font></font></font></b></center>
+</td>
+
+<td>
+<center><b><font size=+1>2<font face="Symbol">Ş</font></font></b></center>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><b><font size=+1>?</font></b></center>
+</td>
+
+<td>&nbsp;</td>
+</tr>
+</table>
+<font size=+1>W tym rozdaniu właściwym jest kontrakt 6<b><font face="Symbol"><font color="#FF0000">¨</font></font></b>.
+Jak widać, karta W jest wyjątkowa, a do tego spotyka wyjątkowo dobre wartości
+u partnera.&nbsp; Jeśli W wniesie zainteresowanie kontraktem karowym licytując
+rewers 3<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+(skok 2<b><font face="Symbol">Ş</font></b> wyklucza 4 kiery, więc otwierający
+może głosić 3<b><font face="Symbol"><font color="#FF0000">©</font></font></b>
+także ze zgrupowania figur),</font>
+<br><font size=+1>to E mając tak znakomitą dla partnera kartę zareaguje
+cue-bidem 4<b><font face="Symbol">§</font></b> i WE znajdą drogę do szlemika.</font>
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

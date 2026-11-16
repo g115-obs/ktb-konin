@@ -1,0 +1,288 @@
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 1  P Ruettgers-W Wendowski       1.5 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   6 G Dembiñski-M Gi¿a            8.0 KP       1  EW        +110  18.00
+                                                2  EW   -660       26.00
+                                                3  EW   -100       17.00
+                                                4  EW   -200       20.00
+                                                5  EW        +980  36.00
+                                                6  EW   -940       13.00
+   3 S Maciejewski-K Szymczak      8.0 WP       7  EW        +200  20.00
+                                                8  EW        +150  26.00
+                                                9  EW   -150       28.00
+                                               10  EW   -100       20.00
+                                               11  EW        +400  20.00
+                                               12  EW   -600       12.00
+   5 A Go³ygowski-R Pa³asz         8.0 KP      13  EW   -100        8.00
+                                               14  EW   -100       25.00
+                                               15  EW        +800  40.00
+                                               16  EW   -400       14.00
+                                               17  EW        +110  24.00
+                                               18  EW        +100  20.00
+   2 E Furs-M Stawicki             6.5 KP      19  NS   +650       39.00
+                                               20  NS   +170       18.00
+                                               21  NS   +620       34.00
+                                               22  NS        -150  18.00
+                                               23  NS    +90       30.00
+                                               24  NS        -800  13.00
+   4 W Muzykiewicz-W Wawoczny      1.0 WP      25  NS        -620  21.00
+                                               26  NS   +120        9.00
+                                               27  NS        -800   6.00
+                                               28  NS       -2800   0.00
+                                               29  NS        -300  10.00
+                                               30  NS        -350   0.00
+                                                                   ------
+                                                         WYNIK    585.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    585.00
+                                                                %= 48.75
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 2  E Furs-M Stawicki             6.5 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   5 A Go³ygowski-R Pa³asz         8.0 KP       1  NS        -110  22.00
+                                                2  NS   +950       32.00
+                                                3  NS        -800   0.00
+                                                4  NS   +200       20.00
+                                                5  NS        -480  28.00
+                                                6  NS   +940       27.00
+   6 G Dembiñski-M Gi¿a            8.0 KP       7  EW        +100  12.00
+                                                8  EW        +140  24.00
+                                                9  EW   -180       24.00
+                                               10  EW   -100       20.00
+                                               11  EW        +400  20.00
+                                               12  EW   -600       12.00
+   4 W Muzykiewicz-W Wawoczny      1.0 WP      13  EW        +120  27.00
+                                               14  EW   -600        4.00
+                                               15  EW   -660        2.00
+                                               16  EW   -200       32.00
+                                               17  EW         +90  18.00
+                                               18  EW        +100  20.00
+   1 P Ruettgers-W Wendowski       1.5 WP      19  EW   -650        1.00
+                                               20  EW   -170       22.00
+                                               21  EW   -620        6.00
+                                               22  EW        +150  22.00
+                                               23  EW    -90       10.00
+                                               24  EW        +800  27.00
+   3 S Maciejewski-K Szymczak      8.0 WP      25  NS        -630  18.00
+                                               26  NS   +170       15.00
+                                               27  NS        -460  21.00
+                                               28  NS        -100  21.00
+                                               29  NS        -100  26.00
+                                               30  NS   +980       36.00
+                                                                   ------
+                                                         WYNIK    569.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    569.00
+                                                                %= 47.42
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 3  S Maciejewski-K Szymczak      8.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   4 W Muzykiewicz-W Wawoczny      1.0 WP       1  NS        -140  16.00
+                                                2  NS   +660       14.00
+                                                3  NS   +500       37.00
+                                                4  NS   +200       20.00
+                                                5  NS        -480  28.00
+                                                6  NS   +520        6.00
+   1 P Ruettgers-W Wendowski       1.5 WP       7  NS        -200  20.00
+                                                8  NS        -150  14.00
+                                                9  NS   +150       12.00
+                                               10  NS   +100       20.00
+                                               11  NS        -400  20.00
+                                               12  NS   +600       28.00
+   6 G Dembiñski-M Gi¿a            8.0 KP      13  EW        +110  25.00
+                                               14  EW    -50       31.00
+                                               15  EW   -150       18.00
+                                               16  EW   -400       14.00
+                                               17  EW         +90  18.00
+                                               18  EW        +100  20.00
+   5 A Go³ygowski-R Pa³asz         8.0 KP      19  EW       +1000  40.00
+                                               20  EW        +100  34.00
+                                               21  EW   -170       32.00
+                                               22  EW        +150  22.00
+                                               23  EW         +90  23.00
+                                               24  EW        +800  27.00
+   2 E Furs-M Stawicki             6.5 KP      25  EW        +630  22.00
+                                               26  EW   -170       25.00
+                                               27  EW        +460  19.00
+                                               28  EW        +100  19.00
+                                               29  EW        +100  14.00
+                                               30  EW   -980        4.00
+                                                                   ------
+                                                         WYNIK    642.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    642.00
+                                                                %= 53.50
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 4  W Muzykiewicz-W Wawoczny      1.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   3 S Maciejewski-K Szymczak      8.0 WP       1  EW        +140  24.00
+                                                2  EW   -660       26.00
+                                                3  EW   -500        3.00
+                                                4  EW   -200       20.00
+                                                5  EW        +480  12.00
+                                                6  EW   -520       34.00
+   5 A Go³ygowski-R Pa³asz         8.0 KP       7  NS        -300  12.00
+                                                8  NS    +50       30.00
+                                                9  NS   +400       32.00
+                                               10  NS   +100       20.00
+                                               11  NS        -400  20.00
+                                               12  NS   +140        4.00
+   2 E Furs-M Stawicki             6.5 KP      13  NS        -120  13.00
+                                               14  NS   +600       36.00
+                                               15  NS   +660       38.00
+                                               16  NS   +200        8.00
+                                               17  NS         -90  22.00
+                                               18  NS        -100  20.00
+   6 G Dembiñski-M Gi¿a            8.0 KP      19  EW        +100  19.00
+                                               20  EW   -620        4.00
+                                               21  EW   -300       22.00
+                                               22  EW        +120  16.00
+                                               23  EW        +120  27.00
+                                               24  EW        +460   6.00
+   1 P Ruettgers-W Wendowski       1.5 WP      25  EW        +620  19.00
+                                               26  EW   -120       31.00
+                                               27  EW        +800  34.00
+                                               28  EW       +2800  40.00
+                                               29  EW        +300  30.00
+                                               30  EW        +350  40.00
+                                                                   ------
+                                                         WYNIK    662.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    662.00
+                                                                %= 55.17
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 5  A Go³ygowski-R Pa³asz         8.0 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   2 E Furs-M Stawicki             6.5 KP       1  EW        +110  18.00
+                                                2  EW   -950        8.00
+                                                3  EW        +800  40.00
+                                                4  EW   -200       20.00
+                                                5  EW        +480  12.00
+                                                6  EW   -940       13.00
+   4 W Muzykiewicz-W Wawoczny      1.0 WP       7  EW        +300  28.00
+                                                8  EW    -50       10.00
+                                                9  EW   -400        8.00
+                                               10  EW   -100       20.00
+                                               11  EW        +400  20.00
+                                               12  EW   -140       36.00
+   1 P Ruettgers-W Wendowski       1.5 WP      13  NS   +100       32.00
+                                               14  NS   +100       15.00
+                                               15  NS        -800   0.00
+                                               16  NS   +400       26.00
+                                               17  NS        -110  16.00
+                                               18  NS        -100  20.00
+   3 S Maciejewski-K Szymczak      8.0 WP      19  NS       -1000   0.00
+                                               20  NS        -100   6.00
+                                               21  NS   +170        8.00
+                                               22  NS        -150  18.00
+                                               23  NS         -90  17.00
+                                               24  NS        -800  13.00
+   6 G Dembiñski-M Gi¿a            8.0 KP      25  EW        +620  19.00
+                                               26  EW   -630        4.00
+                                               27  EW        +210   7.00
+                                               28  EW   -650        1.00
+                                               29  EW        +110  16.00
+                                               30  EW   -750       16.00
+                                                                   ------
+                                                         WYNIK    467.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    467.00
+                                                                %= 38.92
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2009-01-06
+tabelka
+
+WYNIKI PARY NR 6  G Dembiñski-M Gi¿a            8.0 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   1 P Ruettgers-W Wendowski       1.5 WP       1  NS        -110  22.00
+                                                2  NS   +660       14.00
+                                                3  NS   +100       23.00
+                                                4  NS   +200       20.00
+                                                5  NS        -980   4.00
+                                                6  NS   +940       27.00
+   2 E Furs-M Stawicki             6.5 KP       7  NS        -100  28.00
+                                                8  NS        -140  16.00
+                                                9  NS   +180       16.00
+                                               10  NS   +100       20.00
+                                               11  NS        -400  20.00
+                                               12  NS   +600       28.00
+   3 S Maciejewski-K Szymczak      8.0 WP      13  NS        -110  15.00
+                                               14  NS    +50        9.00
+                                               15  NS   +150       22.00
+                                               16  NS   +400       26.00
+                                               17  NS         -90  22.00
+                                               18  NS        -100  20.00
+   4 W Muzykiewicz-W Wawoczny      1.0 WP      19  NS        -100  21.00
+                                               20  NS   +620       36.00
+                                               21  NS   +300       18.00
+                                               22  NS        -120  24.00
+                                               23  NS        -120  13.00
+                                               24  NS        -460  34.00
+   5 A Go³ygowski-R Pa³asz         8.0 KP      25  NS        -620  21.00
+                                               26  NS   +630       36.00
+                                               27  NS        -210  33.00
+                                               28  NS   +650       39.00
+                                               29  NS        -110  24.00
+                                               30  NS   +750       24.00
+                                                                   ------
+                                                         WYNIK    675.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    675.00
+                                                                %= 56.25
+

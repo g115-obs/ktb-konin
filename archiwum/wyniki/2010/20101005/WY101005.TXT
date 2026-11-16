@@ -1,0 +1,23 @@
+Turniej Wtorkowy
+2010-10-05
+tabelka
+
+M-CE NR                                          +/-   WYNIK    %   PKL PDF   NAGRODA
+-------------------------------------------------------------------------------------
+  1   1 Marek Giza           4.0 KP  03707             647.00 53.92           80,-
+        Ryszard Palasz       4.0 WP  10533    
+  2   2 Slawomir Maciejewski 4.0 WP  05203             646.00 53.83           40,-
+        Waldemar Wawoczny    1.0 WP  12433    
+  3   6 Grzegorz Dembinski   4.0 WP  04948             609.00 50.75  
+        Andrzej Syrek       12.0 WP  05431    
+  4   4 Marek Pancer         0.5 WP  12370             606.00 50.50  
+        Jerzy Szymanski      4.0 WP  10535    
+  5   5 Jozef Janiak         1.0 WP  12368 S           573.00 47.75  
+        Grzegorz Silny       0.0 WP        M  
+  6   3 Eugeniusz Furs       4.0 WP  03702 S           519.00 43.25  
+        Andrzej Golygowski   7.0 WP  12047    
+                           -----
+                 Suma WK =  45.5
+           100% rozdania =    40
+           100% turnieju =  1200
+

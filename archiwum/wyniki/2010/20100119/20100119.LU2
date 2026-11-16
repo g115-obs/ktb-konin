@@ -1,0 +1,107 @@
+20100119	* ID Turnieju
+"Wtorkowy"	* Nazwa Turnieju
+?	* Podtytul
+2010-01-19	* Data
+Konin	* Miejscowosc
+WP	* Okreg
+K	* Typ imprezy
+Grzegorz	* Imie
+Dembiñski	* Nazwisko
+04849	* ID sedziego
+www.ktb.konin.lm.pl	* www
+1	* NUMER STARTOWY
+Julia	* IMIE 1
+Z³oty	* NAZWISKO 1
+0.0	* WK 1
+WP	* OKREG 1
+KJ	* INFO 1
+?	* KLUB 1
+90011	* ID 1
+1	* NUMER STARTOWY
+Magda	* IMIE 
+B³aszczyk	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+KJ	* INFO 
+?	* KLUB 
+90012	* ID 
+2	* NUMER STARTOWY
+S³awomir	* IMIE 2
+Maciejewski	* NAZWISKO 2
+4.0	* WK 2
+WP	* OKREG 2
+?	* INFO 2
+"Prosna Kalisz"	* KLUB 2
+05203	* ID 2
+2	* NUMER STARTOWY
+Krzysztof	* IMIE 
+Szymczak	* NAZWISKO 
+4.0	* WK 
+WP	* OKREG 
+?	* INFO 
+"Prosna Kalisz"	* KLUB 
+07663	* ID 
+3	* NUMER STARTOWY
+Kamila	* IMIE 3
+Malanowicz	* NAZWISKO 3
+0.0	* WK 3
+WP	* OKREG 3
+KJ	* INFO 3
+?	* KLUB 3
+90013	* ID 3
+3	* NUMER STARTOWY
+Marcin	* IMIE 
+Armacki	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+J	* INFO 
+?	* KLUB 
+90014	* ID 
+4	* NUMER STARTOWY
+Marek	* IMIE 4
+Gi¿a	* NAZWISKO 4
+4.0	* WK 4
+KP	* OKREG 4
+?	* INFO 4
+"PAAK Bydgoszcz"	* KLUB 4
+03707	* ID 4
+4	* NUMER STARTOWY
+W³adys³aw	* IMIE 
+Wendowski	* NAZWISKO 
+1.5	* WK 
+WP	* OKREG 
+S	* INFO 
+?	* KLUB 
+10532	* ID 
+5	* NUMER STARTOWY
+Krystian	* IMIE 5
+Katafoni	* NAZWISKO 5
+0.0	* WK 5
+WP	* OKREG 5
+J	* INFO 5
+?	* KLUB 5
+90015	* ID 5
+5	* NUMER STARTOWY
+Jakub	* IMIE 
+Kasznia	* NAZWISKO 
+0.0	* WK 
+WP	* OKREG 
+J	* INFO 
+?	* KLUB 
+90016	* ID 
+6	* NUMER STARTOWY
+Grzegorz	* IMIE 6
+Dembiñski	* NAZWISKO 6
+4.0	* WK 6
+WP	* OKREG 6
+?	* INFO 6
+"KTB Konin"	* KLUB 6
+04948	* ID 6
+6	* NUMER STARTOWY
+Andrzej	* IMIE 
+Syrek	* NAZWISKO 
+12.0	* WK 
+WP	* OKREG 
+?	* INFO 
+"CATMAN-TAURUS BRIDGE TEAM 1 Poznañ"	* KLUB 
+05431	* ID 

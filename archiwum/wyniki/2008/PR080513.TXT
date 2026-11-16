@@ -1,0 +1,87 @@
+
+Wtorkowy
+2008-05-13
+tabelka
+
+ROZDANIE NR  1                 ROZDANIE NR  2                 ROZDANIE NR  3
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   1     -460  16.0  24.0     6   1   50      20.0  20.0     6   1  170      20.0  20.0  
+   2   5     -420  22.0  18.0     2   5   50      20.0  20.0     2   5  420      32.0   8.0  
+   3   4     -420  22.0  18.0     3   4   50      20.0  20.0     3   4      -50   8.0  32.0  
+
+ROZDANIE NR  4                 ROZDANIE NR  5                 ROZDANIE NR  6
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   1     -120  12.0  28.0     6   1     -100  28.0  12.0     6   1      -90   0.0  40.0  
+   2   5      -90  16.0  24.0     2   5     -110  26.0  14.0     2   5  920      30.0  10.0  
+   3   4  130      32.0   8.0     3   4     -500   6.0  34.0     3   4  920      30.0  10.0  
+
+ROZDANIE NR  7                 ROZDANIE NR  8                 ROZDANIE NR  9
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   2     -100  24.0  16.0     6   2   50      20.0  20.0     6   2     -100   8.0  32.0  
+   3   1     -200  12.0  28.0     3   1   50      20.0  20.0     3   1  470      32.0   8.0  
+   4   5     -100  24.0  16.0     4   5  œrednia  20.0  20.0     4   5  œrednia  20.0  20.0  
+
+ROZDANIE NR 10                 ROZDANIE NR 11                 ROZDANIE NR 12
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   2  600      20.0  20.0     6   2     -450  30.0  10.0     6   2     -650   8.0  32.0  
+   3   1  600      20.0  20.0     3   1     -480  26.0  14.0     3   1     -420  26.0  14.0  
+   4   5  œrednia  20.0  20.0     4   5     -980   4.0  36.0     4   5     -420  26.0  14.0  
+
+ROZDANIE NR 13                 ROZDANIE NR 14                 ROZDANIE NR 15
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   3     -130   8.0  32.0     6   3  460      30.0  10.0     6   3  150      16.0  24.0  
+   4   2  œrednia  20.0  20.0     4   2  œrednia  20.0  20.0     4   2  œrednia  20.0  20.0  
+   5   1  400      32.0   8.0     5   1  170      10.0  30.0     5   1  200      24.0  16.0  
+
+ROZDANIE NR 16                 ROZDANIE NR 17                 ROZDANIE NR 18
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   3     -110  22.0  18.0     6   3   50      16.0  24.0     6   3  300      34.0   6.0  
+   4   2  œrednia  20.0  20.0     4   2  œrednia  20.0  20.0     4   2  œrednia  20.0  20.0  
+   5   1     -140  18.0  22.0     5   1  130      24.0  16.0     5   1     -500   6.0  34.0  
+
+ROZDANIE NR 19                 ROZDANIE NR 20                 ROZDANIE NR 21
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   4  œrednia  20.0  20.0     6   4  œrednia  20.0  20.0     6   4  œrednia  20.0  20.0  
+   5   3      -90  20.0  20.0     5   3  620      32.0   8.0     5   3  140      30.0  10.0  
+   1   2      -90  20.0  20.0     1   2  110       8.0  32.0     1   2     -200  10.0  30.0  
+
+
+ROZDANIE NR 22                 ROZDANIE NR 23                 ROZDANIE NR 24
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   4  œrednia  20.0  20.0     6   4  œrednia  20.0  20.0     6   4  œrednia  20.0  20.0  
+   5   3     -160  10.0  30.0     5   3  140      28.0  12.0     5   3     -100  16.0  24.0  
+   1   2  110      30.0  10.0     1   2     -100  12.0  28.0     1   2      -50  24.0  16.0  
+
+ROZDANIE NR 25                 ROZDANIE NR 26                 ROZDANIE NR 27
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   5     -650  20.0  20.0     6   5     -300   4.0  36.0     6   5     -460  18.0  22.0  
+   1   4  œrednia  20.0  20.0     1   4  œrednia  20.0  20.0     1   4  œrednia  20.0  20.0  
+   2   3     -650  20.0  20.0     2   3  660      36.0   4.0     2   3     -430  22.0  18.0  
+
+ROZDANIE NR 28                 ROZDANIE NR 29                 ROZDANIE NR 30
+            ZAPIS    PUNKTY                ZAPIS    PUNKTY                ZAPIS    PUNKTY  
+  NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW     NS  EW   NS  EW    NS   EW 
+-----------------------------  -----------------------------  -----------------------------
+   6   5  620      34.0   6.0     6   5     -600  20.0  20.0     6   5 1520      32.0   8.0  
+   1   4  œrednia  20.0  20.0     1   4  œrednia  20.0  20.0     1   4  œrednia  20.0  20.0  
+   2   3     -200   6.0  34.0     2   3     -600  20.0  20.0     2   3 1020       8.0  32.0  
+
+

@@ -1,0 +1,23 @@
+Wtorkowy
+2010-01-19
+tabelka
+
+M-CE NR                                          +/-   WYNIK    %   PKL PDF   NAGRODA
+-------------------------------------------------------------------------------------
+  1   2 Slawomir Maciejewski 4.0 WP  05203             613.00 61.30           60,-
+        Krzysztof Szymczak   4.0 WP  07663    
+  2   4 Marek Giza           4.0 KP  03707             585.00 58.50  
+        Wladyslaw Wendowski  1.5 WP  10532 S  
+      6 Grzegorz Dembinski   4.0 WP  04948             585.00 58.50  
+        Andrzej Syrek       12.0 WP  05431    
+  4   5 Krystian Katafoni    0.0 WP        J           437.00 43.70  
+        Jakub Kasznia        0.0 WP        J  
+  5   1 Julia Zloty          0.0 WP        KJ          397.00 39.70  
+        Magda Blaszczyk      0.0 WP        KJ 
+  6   3 Kamila Malanowicz    0.0 WP        KJ          383.00 38.30  
+        Marcin Armacki       0.0 WP        J  
+                           -----
+                 Suma WK =  29.5
+           100% rozdania =    40
+           100% turnieju =  1000
+

@@ -1,0 +1,139 @@
+<html>
+
+<head>
+	<meta http-equiv="Content-Language" content="pl">
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+	<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+	<meta name="ProgId" content="FrontPage.Editor.Document">
+	<title>wyn1</title>
+	<base target="_self">
+
+<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+<!--
+
+
+var karty = new Array(
+////// Podaj ilość pozycji w poszczególnych menu:
+new karta(2),
+new karta(5),
+new karta(3)
+);
+
+
+var szybko = false;
+var czas = new Date();
+
+
+function display(id, wartosc)
+{
+  if (wartosc)
+  {
+    if (document.getElementById) document.getElementById(id).style.display = wartosc;
+    else if (document.all) document.all[id].style.display = wartosc;
+  }
+  else
+  {
+    var wart = "";
+    if (document.getElementById) wart = document.getElementById(id).style.display;
+    else if (document.all) wart = document.all[id].style.display;
+    return wart; 
+  }
+}
+
+function ukryj(id)
+{
+  for (var i = 0; i < karty[id].ilosc; i++) display("nr" + id + "_" + i, "none");
+  display("nr" + id, "none");
+  karty[id].rozwinieta = false;
+}
+
+var id_rozwin_zwin = 0;
+
+function rozwin_zwin(id, nr)
+{
+  if (!nr)
+  {
+    var nr = 0;
+    if (!karty[id].rozwinieta) for (var i = 0; i < karty.length; i++) if (i != id) ukryj(i);
+    czas = new Date();
+  }
+
+  if (nr < karty[id].ilosc)
+  {
+    if (karty[id].rozwinieta)
+    {
+      if (szybko) display("nr" + id + "_" + nr++, "none");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "none");
+    }
+    else
+    {
+      display("nr" + id, "block");
+      if (szybko) display("nr" + id + "_" + nr++, "block");
+      if (nr < karty[id].ilosc) display("nr" + id + "_" + nr, "block");
+    }
+  }
+
+  nr++;
+  clearTimeout(id_rozwin_zwin);
+  if (nr < karty[id].ilosc) id_rozwin_zwin = setTimeout('rozwin_zwin(' + id + ',' + nr + ')', 10);
+  else
+  {
+    if (karty[id].rozwinieta) display("nr" + id, "none");
+    if (!szybko && new Date() - czas > karty[id].ilosc*25) szybko = true;
+    else if (szybko && new Date() - czas < karty[id].ilosc*12) szybko = false;
+    karty[id].rozwinieta = (karty[id].rozwinieta ? false : true);
+  }
+}
+
+function karta(il)
+{
+  this.ilosc = il;
+  this.rozwinieta = true;
+}
+//-->
+    </SCRIPT>
+<style type="text/css">
+<!--
+.style1 {font-size: 10px}
+.style2 {font-size: 10}
+-->
+    </style>
+
+<meta name="Microsoft Border" content="l, default">
+</head>
+
+<body background="images/image005.jpg"><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>&nbsp;</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+	<p align="left"><font size="5" color="#CC0066" face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <b>WYNIKI</b></font></p>
+<table border="1" width="90%" id="AutoNumber2" style="border-width: 0; border-collapse:collapse" cellspacing="0" bordercolor="#111111" cellpadding="0" height="10%">	
+  <tr>
+    <td width="6%" style="border-style: none; border-width: medium" valign="bottom" height="58">
+       <img border="0" src="Gify/kh.gif" width="57" height="74"></td>
+    <td width="78%" style="border-style: none; border-width: medium" height="58" valign="bottom">
+       <p align="center">
+       <img border="0" src="Gify/DOGRUN.GIF" width="253" height="37"></td>
+    <td width="3%" style="border-style: none; border-width: medium" height="58" valign="bottom">
+       <img border="0" src="Gify/qh.gif" align="right" width="58" height="76"></td>
+  </tr>
+</table>
+    <p><font face="Comic Sans MS" size="4">Strona ta poświęcona jest różnego 
+    rodzaju wynikom rozgrywanych w Koninie zawodów. Podzieliłem je na trzy 
+    grupy:</font></p>
+    <ul>
+      <li><font face="Comic Sans MS" size="4"><a href="mmk.htm">
+      <font color="#000000">Mistrzostwa Miasta Konina</font></a> - organizowane 
+      we wrześniu;</font></li>
+      <li><font face="Comic Sans MS" size="4"><a href="kmb.htm">
+      <font color="#000000">Koniński Mityng Brydżowy</font></a> - organizowany w 
+      ostatnią niedzielę kwietnia;</font></li>
+      <li><font face="Comic Sans MS" size="4"><a href="wtorki.htm">
+      <font color="#000000">Spotkania bieżące</font></a> - wtorki brydżowe</font></li>
+    </ul>
+    <p><font face="Comic Sans MS" size="4">Serdecznie zapraszam</font></p>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table></body>
+</html>

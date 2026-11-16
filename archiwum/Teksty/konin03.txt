@@ -1,0 +1,50 @@
+	KOPS (c) J.Romanski'1993 http://brydz.to.jest.to
+
+		I Mistrzostwa Konina w Bryd¿u Sportowym
+			13 wrzeœnia 2003 roku
+
+	M-CE NR 					WYNIK 	  % 
+
+	1 11 Eugeniusz Furs                     1.5 KL 	292.33	67.67%
+	     Jacek Kokocinski                   1.0
+	2 16 Jerzy Szymanski                    2.5 KL 	290.72	67.30%
+	     Waldemar Sroczynski                2.5 KL
+	3 12 Miroslaw Stawicki                  1.5 KO         261.84  60.61%
+	     Ireneusz Sówka                     1.5
+	4 19 Grzegorz Dembinski                 2.5 KL 	261.72	60.58%
+	     Andrzej Syrek                      4.0 PO
+	5 17 Miroslaw Grzelczyk                 1.5 KN 	256.75	59.43%
+	     MirosLaw Witek                     2.5 KL
+	6 15 Jacek Klimka                                      252.61  58.47%
+	     Tomasz Kosko
+	7 13 S³awomir Maciejewski               2.5 KL 	243.64 	56.40%
+	     Krzysztof Szymczak                 2.5 KL
+	8 10 Agnieszka Karnecka                     LO         239.62	55.47%
+	     Rafa³ Nowak                        0.5 LO
+	9 14 Wieslaw Muzykiewicz                1.5 KL 	238.51	55.21%
+	     WLadysLaw Wendowski                1.5 
+	10 4 Kasia Karnecka                         LO         218.99	50.69%
+	     Micha³ Domagalski                  0.5 LO
+	11 18 Stefan Debinski                   1.0 KN 	215.24	49.82%
+	      Tadeusz Stasiak 
+	12 6 Tomasz Michalak                        PP 	208.61	48.29%
+	     Marcin Dryjanski                       PP
+	13 3 Wojtek Pieklik                         PP 	195.24	45.19%
+	     Michal Sybis                           PP
+	14 7 Przemyslaw Kucharski                   LO	185.01	42.83%
+	     Krzysztof Zimnicki                     LO
+	15 8 Dawid Wozniak                          PP 	165.16	38.23%
+	     Szymon Buszkiewicz                     PP
+	16 9 Wiktor Chmielewski                     LO 	157.90	36.55%
+	     Adam Kuznowicz                         LO
+	17 1 Adam Ogórek                            LO 	151.03	34.96%
+	     Maciej Antkowiak                       LO
+	18 2 Aleksandra Czyzewska                   AE 	140.66	32.56%
+	     Dorota Berlinska                       AE
+	19 5 Justyna Bienkowska                     LO 	128.42	29.73%
+	     Magda Tracilowska                      LO
+
+
+			Suma WK = 31.0
+			100% rozdania = 16
+			100% turnieju = 432

@@ -1,0 +1,288 @@
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 1  S Maciejewski-W Wendowski     4.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   6 G Dembiñski-A Syrek          11.0 WP       1  EW   -110        8.00
+                                                2  EW        +590  31.00
+                                                3  EW        +660  22.00
+                                                4  EW   -600       23.00
+                                                5  EW   -650       22.00
+                                                6  EW        +140  12.00
+   3 A Bednarski-K Kowalski        1.0 WP       7  EW        +690  24.00
+                                                8  EW    -50       15.00
+                                                9  EW        +630  36.00
+                                               10  EW   -170       31.00
+                                               11  EW    -50       23.00
+                                               12  EW        +100  38.00
+   5 T Felczak-R Pa³asz            4.0 WP      13  EW        +400  40.00
+                                               14  EW   -420       24.00
+                                               15  EW   -140       10.00
+                                               16  EW         +50  32.00
+                                               17  EW   -110       18.00
+                                               18  EW   -100       17.00
+   2 M Gi¿a-M Pancer               4.0 KP/WP   19  NS   +430       20.00
+                                               20  NS        -100  14.00
+                                               21  NS        -100  14.00
+                                               22  NS        -120  12.00
+                                               23  NS        -100  26.00
+                                               24  NS        -100  10.00
+   4 E Furs-A Go³ygowski           4.0 KP      25  NS        -100  10.00
+                                               26  NS   +400       19.00
+                                               27  NS         -50   4.00
+                                               28  NS   +730       38.00
+                                               29  NS        -500  29.00
+                                               30  NS        -450  22.00
+                                                                   ------
+                                                         WYNIK    644.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    644.00
+                                                                %= 53.67
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 2  M Gi¿a-M Pancer               4.0 KP/WP
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   5 T Felczak-R Pa³asz            4.0 WP       1  NS        -140  11.00
+                                                2  NS        -140  34.00
+                                                3  NS        -660  18.00
+                                                4  NS   +660       26.00
+                                                5  NS   +650       18.00
+                                                6  NS        -600   4.00
+   6 G Dembiñski-A Syrek          11.0 WP       7  EW        +600  12.00
+                                                8  EW   -100        9.00
+                                                9  EW   -100        6.00
+                                               10  EW   -200       27.00
+                                               11  EW   -100       14.00
+                                               12  EW   -680       11.00
+   4 E Furs-A Go³ygowski           4.0 KP      13  EW   -650       12.00
+                                               14  EW   -450       18.00
+                                               15  EW    -50       18.00
+                                               16  EW   -500        8.00
+                                               17  EW   -110       18.00
+                                               18  EW    -50       26.00
+   1 S Maciejewski-W Wendowski     4.0 WP      19  EW   -430       20.00
+                                               20  EW        +100  26.00
+                                               21  EW        +100  26.00
+                                               22  EW        +120  28.00
+                                               23  EW        +100  14.00
+                                               24  EW        +100  30.00
+   3 A Bednarski-K Kowalski        1.0 WP      25  NS         -50  16.00
+                                               26  NS   +800       34.00
+                                               27  NS   +430       28.00
+                                               28  NS   +100       17.00
+                                               29  NS        -800   8.00
+                                               30  NS        -480  16.00
+                                                                   ------
+                                                         WYNIK    553.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    553.00
+                                                                %= 46.08
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 3  A Bednarski-K Kowalski        1.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   4 E Furs-A Go³ygowski           4.0 KP       1  NS         -90  17.00
+                                                2  NS        -500  17.00
+                                                3  NS        -630  24.00
+                                                4  NS   +600       17.00
+                                                5  NS   +680       24.00
+                                                6  NS        -140  28.00
+   1 S Maciejewski-W Wendowski     4.0 WP       7  NS        -690  16.00
+                                                8  NS    +50       25.00
+                                                9  NS        -630   4.00
+                                               10  NS   +170        9.00
+                                               11  NS    +50       17.00
+                                               12  NS        -100   2.00
+   6 G Dembiñski-A Syrek          11.0 WP      13  EW   -680        8.00
+                                               14  EW   -450       18.00
+                                               15  EW        +200  32.00
+                                               16  EW   -200       20.00
+                                               17  EW    -80       24.00
+                                               18  EW   -100       17.00
+   5 T Felczak-R Pa³asz            4.0 WP      19  EW   -430       20.00
+                                               20  EW   -200        8.00
+                                               21  EW        +100  26.00
+                                               22  EW         +90  24.00
+                                               23  EW        +150  21.00
+                                               24  EW   -100       12.00
+   2 M Gi¿a-M Pancer               4.0 KP/WP   25  EW         +50  24.00
+                                               26  EW   -800        6.00
+                                               27  EW   -430       12.00
+                                               28  EW   -100       23.00
+                                               29  EW        +800  32.00
+                                               30  EW        +480  24.00
+                                                                   ------
+                                                         WYNIK    551.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    551.00
+                                                                %= 45.92
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 4  E Furs-A Go³ygowski           4.0 KP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   3 A Bednarski-K Kowalski        1.0 WP       1  EW         +90  23.00
+                                                2  EW        +500  23.00
+                                                3  EW        +630  16.00
+                                                4  EW   -600       23.00
+                                                5  EW   -680       16.00
+                                                6  EW        +140  12.00
+   5 T Felczak-R Pa³asz            4.0 WP       7  NS        -690  16.00
+                                                8  NS        -420   4.00
+                                                9  NS        -180  22.00
+                                               10  NS   +990       38.00
+                                               11  NS    +50       17.00
+                                               12  NS   +680       29.00
+   2 M Gi¿a-M Pancer               4.0 KP/WP   13  NS   +650       28.00
+                                               14  NS   +450       22.00
+                                               15  NS    +50       22.00
+                                               16  NS   +500       32.00
+                                               17  NS   +110       22.00
+                                               18  NS    +50       14.00
+   6 G Dembiñski-A Syrek          11.0 WP      19  EW   -430       20.00
+                                               20  EW        +100  26.00
+                                               21  EW   -200        8.00
+                                               22  EW   -170        8.00
+                                               23  EW        +170  25.00
+                                               24  EW    -50       18.00
+   1 S Maciejewski-W Wendowski     4.0 WP      25  EW        +100  30.00
+                                               26  EW   -400       21.00
+                                               27  EW         +50  36.00
+                                               28  EW   -730        2.00
+                                               29  EW        +500  11.00
+                                               30  EW        +450  18.00
+                                                                   ------
+                                                         WYNIK    602.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    602.00
+                                                                %= 50.17
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 5  T Felczak-R Pa³asz            4.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   2 M Gi¿a-M Pancer               4.0 KP/WP    1  EW        +140  29.00
+                                                2  EW        +140   6.00
+                                                3  EW        +660  22.00
+                                                4  EW   -660       14.00
+                                                5  EW   -650       22.00
+                                                6  EW        +600  36.00
+   4 E Furs-A Go³ygowski           4.0 KP       7  EW        +690  24.00
+                                                8  EW        +420  36.00
+                                                9  EW        +180  18.00
+                                               10  EW   -990        2.00
+                                               11  EW    -50       23.00
+                                               12  EW   -680       11.00
+   1 S Maciejewski-W Wendowski     4.0 WP      13  NS        -400   0.00
+                                               14  NS   +420       16.00
+                                               15  NS   +140       30.00
+                                               16  NS         -50   8.00
+                                               17  NS   +110       22.00
+                                               18  NS   +100       23.00
+   3 A Bednarski-K Kowalski        1.0 WP      19  NS   +430       20.00
+                                               20  NS   +200       32.00
+                                               21  NS        -100  14.00
+                                               22  NS         -90  16.00
+                                               23  NS        -150  19.00
+                                               24  NS   +100       28.00
+   6 G Dembiñski-A Syrek          11.0 WP      25  EW   -300        6.00
+                                               26  EW   -110       33.00
+                                               27  EW   -430       12.00
+                                               28  EW        +120  35.00
+                                               29  EW        +580  17.00
+                                               30  EW        +450  18.00
+                                                                   ------
+                                                         WYNIK    592.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    592.00
+                                                                %= 49.33
+
+KOPS  (c) J.Romañski'2005                             http://www.ktb.konin.lm.pl   Sêdziowa³: Grzegorz Dembiñski
+
+
+Wtorkowy
+2007-09-11
+tabelka
+
+WYNIKI PARY NR 6  G Dembiñski-A Syrek          11.0 WP   
+
+PRZECIWNICY                                 ROZD. LINIA   ZAPIS      %
+-------------------------------------------------------__ns___ew__-------
+   1 S Maciejewski-W Wendowski     4.0 WP       1  NS   +110       32.00
+                                                2  NS        -590   9.00
+                                                3  NS        -660  18.00
+                                                4  NS   +600       17.00
+                                                5  NS   +650       18.00
+                                                6  NS        -140  28.00
+   2 M Gi¿a-M Pancer               4.0 KP/WP    7  NS        -600  28.00
+                                                8  NS   +100       31.00
+                                                9  NS   +100       34.00
+                                               10  NS   +200       13.00
+                                               11  NS   +100       26.00
+                                               12  NS   +680       29.00
+   3 A Bednarski-K Kowalski        1.0 WP      13  NS   +680       32.00
+                                               14  NS   +450       22.00
+                                               15  NS        -200   8.00
+                                               16  NS   +200       20.00
+                                               17  NS    +80       16.00
+                                               18  NS   +100       23.00
+   4 E Furs-A Go³ygowski           4.0 KP      19  NS   +430       20.00
+                                               20  NS        -100  14.00
+                                               21  NS   +200       32.00
+                                               22  NS   +170       32.00
+                                               23  NS        -170  15.00
+                                               24  NS    +50       22.00
+   5 T Felczak-R Pa³asz            4.0 WP      25  NS   +300       34.00
+                                               26  NS   +110        7.00
+                                               27  NS   +430       28.00
+                                               28  NS        -120   5.00
+                                               29  NS        -580  23.00
+                                               30  NS        -450  22.00
+                                                                   ------
+                                                         WYNIK    658.00
+                                                           +/-      0.00
+                                                                   ------
+                                                         RAZEM    658.00
+                                                                %= 54.83
+

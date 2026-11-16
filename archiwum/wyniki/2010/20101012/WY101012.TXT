@@ -1,0 +1,23 @@
+Wtorkowy
+2010-10-12
+tabelka
+
+M-CE NR                                          +/-   WYNIK    %   PKL PDF   NAGRODA
+-------------------------------------------------------------------------------------
+  1   6 Grzegorz Dembinski   4.0 WP  04948             656.00 54.67           80,-
+        Andrzej Syrek       12.0 WP  05431    
+  2   5 Marek Giza           4.0 KP  03707             631.00 52.58           40,-
+        Ryszard Palasz       4.0 WP  10533    
+  3   1 Eugeniusz Furs       4.0 WP  03702 S           597.00 49.75  
+        Miroslaw Stawicki    4.0 WP  03949    
+  4   3 Slawomir Maciejewski 4.0 WP  05203             596.00 49.67  
+        Waldemar Wawoczny    1.0 WP  12433    
+  5   2 Jerzy Szymanski      4.0 WP  10535             560.00 46.67  
+        Wladyslaw Wendowski  1.5 WP  10532 S  
+      4 Jozef Janiak         1.0 WP  12368 S           560.00 46.67  
+        Grzegorz Silny       0.0 WP        M  
+                           -----
+                 Suma WK =  43.5
+           100% rozdania =    40
+           100% turnieju =  1200
+
