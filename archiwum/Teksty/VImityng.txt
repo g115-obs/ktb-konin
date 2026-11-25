@@ -1,75 +1,75 @@
-KOPS  (c) J.RomaÒski'1993                             http://www.icl.pl/Romanski
+KOPS  (c) J.Roma≈Ñski'1993                             http://www.icl.pl/Romanski
 
-     VI Mityng Brydøowy Ziemi KoniÒskiej
+     VI Mityng Bryd≈ºowy Ziemi Koni≈Ñskiej
            24 kwietnia 2005 r
      
      M-CE NR                                            %SES1  %SES2     %   PKL PDF  NAGRODA
      ----------------------------------------------------------------------------------------
-       1  41 Marcin PÍdziÒski        7.0 WP  05314      65.40  59.21   62.31  18 118     500,-
-             Marek Szuka≥a          12.0 WP  05446    
-       2  25 S≥awomir Maciejewski    2.5 WP  05203      59.27  62.89   61.08  16 107     300,-
+       1  41 Marcin Pƒôdzi≈Ñski        7.0 WP  05314      65.40  59.21   62.31  18 118     500,-
+             Marek Szuka≈Ça          12.0 WP  05446    
+       2  25 S≈Çawomir Maciejewski    2.5 WP  05203      59.27  62.89   61.08  16 107     300,-
              Krzysztof Szymczak      2.5 WP  07663    
-       3  61 W≥odzimierz Kwiatkowski 7.0 WP  05170 S    63.43  58.03   60.73  14 100     250,-
+       3  61 W≈Çodzimierz Kwiatkowski 7.0 WP  05170 S    63.43  58.03   60.73  14 100     250,-
              Adam Meller             4.0 WP           
-       4  46 Stanis≥aw Janik         7.0 WP  05059      63.17  56.18   59.68  12  92     200,-
+       4  46 Stanis≈Çaw Janik         7.0 WP  05059      63.17  56.18   59.68  12  92     200,-
              Jerzy Nowak             7.0 WP  05282    
        5   2 Jan Kuczera             4.0 WP  05155      66.18  50.39   58.29  10  88     150,-
-             Marek WiÍcek            4.0 WP  05495    
+             Marek Wiƒôcek            4.0 WP  05495    
        6  50 Piotr Walczak          12.0 WP  05856      55.96  59.87   57.92   8  84
-             Przemys≥aw Weymann      7.0 WP  05487 S  
-       7   8 Bogus≥aw Matuszewski    2.5 WP  05224      52.43  62.89   57.66   7  80
-             Marek SosiÒski          4.0 WP  05404    
+             Przemys≈Çaw Weymann      7.0 WP  05487 S  
+       7   8 Bogus≈Çaw Matuszewski    2.5 WP  05224      52.43  62.89   57.66   7  80
+             Marek Sosi≈Ñski          4.0 WP  05404    
        8  62 Tomasz Metelski         7.0 WP  05230      63.48  51.45   57.47   6  77
-             Marcin Woüniak          4.0 WP  05519    
-       9   7 Przemys≥aw OchociÒski   4.0 WP  05287      60.64  54.08   57.36   5  74
+             Marcin Wo≈∫niak          4.0 WP  05519    
+       9   7 Przemys≈Çaw Ochoci≈Ñski   4.0 WP  05287      60.64  54.08   57.36   5  74
              Cezary Serek            4.0 WP  05374    
-      10  51 Zbigniew Saba≥a         7.0 WP  05367      51.51  63.16   57.33   4  71
-             Artur WÛjcik            7.0 WP  05523    
+      10  51 Zbigniew Saba≈Ça         7.0 WP  05367      51.51  63.16   57.33   4  71
+             Artur W√≥jcik            7.0 WP  05523    
      
-      11  27 Miros≥aw Stawicki       2.5 KP  03949      58.55  54.34   56.44   3  68
-             Andrzej Go≥ygowski      0.0 WP           
-      12  22 Katarzyna Szczeúniak    0.5 PM  10349 K    56.12  56.71   56.42   2  66
-             Stanis≥aw Micha≥owski   7.0 WP  05238 S  
-      13  67 Leszek Dπbkiewicz       4.0 WP  04947      53.78  58.29   56.04   1  64
-             Pawe≥ Polaszek          2.5 WP  05328    
+      11  27 Miros≈Çaw Stawicki       2.5 KP  03949      58.55  54.34   56.44   3  68
+             Andrzej Go≈Çygowski      0.0 WP           
+      12  22 Katarzyna Szcze≈õniak    0.5 PM  10349 K    56.12  56.71   56.42   2  66
+             Stanis≈Çaw Micha≈Çowski   7.0 WP  05238 S  
+      13  67 Leszek DƒÖbkiewicz       4.0 WP  04947      53.78  58.29   56.04   1  64
+             Pawe≈Ç Polaszek          2.5 WP  05328    
       14  21 Eugeniusz Furs          2.5 KP  03702 S    57.27  53.42   55.35      62
-             Jacek KokociÒski        1.5 KP  03775    
-      15   3 Stanis≥aw Gregor        0.0 WP             58.79  50.66   54.72      60
-             Wies≥aw Muzykiewicz     1.5 WP           
+             Jacek Kokoci≈Ñski        1.5 KP  03775    
+      15   3 Stanis≈Çaw Gregor        0.0 WP             58.79  50.66   54.72      60
+             Wies≈Çaw Muzykiewicz     1.5 WP           
       16  42 Duy Nguyen              1.5 WP  09108      55.80  53.55   54.67      58
-             Grzegorz Miúkiewicz     1.5 WP  05256    
-      17   9 Jerzy StypiÒski         0.5 WP  07656 S    53.61  55.39   54.50      56
+             Grzegorz Mi≈õkiewicz     1.5 WP  05256    
+      17   9 Jerzy Stypi≈Ñski         0.5 WP  07656 S    53.61  55.39   54.50      56
              Tomasz Solarski         0.5 WP  09122    
-      18  64 Jaros≥aw LubczyÒski     2.5 WP  05192      53.66  54.74   54.20      54
+      18  64 Jaros≈Çaw Lubczy≈Ñski     2.5 WP  05192      53.66  54.74   54.20      54
              Dariusz Kurzawski       2.5 WP  05166    
-      19  71 Miros≥aw Witek          2.5 WP  10536      47.50  60.39   53.95      52
-             Waldemar SroczyÒski     2.5 WP  10534    
-      20  68 Miros≥aw Grzelczyk      1.5 WP  10529      48.16  58.68   53.42      50
-             Miros≥aw åwieca         2.5 WP  10531    
+      19  71 Miros≈Çaw Witek          2.5 WP  10536      47.50  60.39   53.95      52
+             Waldemar Sroczy≈Ñski     2.5 WP  10534    
+      20  68 Miros≈Çaw Grzelczyk      1.5 WP  10529      48.16  58.68   53.42      50
+             Miros≈Çaw ≈öwieca         2.5 WP  10531    
      
-          31 Wojciech RybczyÒski     1.5 WP  10530      50.80  56.05   53.42      48
-             Piotr KaszyÒski         0.0 WP           
+          31 Wojciech Rybczy≈Ñski     1.5 WP  10530      50.80  56.05   53.42      48
+             Piotr Kaszy≈Ñski         0.0 WP           
       22   1 Tomasz Latos            4.0 KP  03807      50.01  53.42   51.71      46
-             Marek Giøa              2.5 KP  03707    
-      23   6 Wies≥aw Iciek           2.5 KP  03729      47.31  55.66   51.48      44
+             Marek Gi≈ºa              2.5 KP  03707    
+      23   6 Wies≈Çaw Iciek           2.5 KP  03729      47.31  55.66   51.48      44
              Piotr Ruttgers          0.0 KP  09766 S  
-      24  30 Janusz Koúcielny        4.0 OP  01826      49.28  52.11   50.69      42
+      24  30 Janusz Ko≈õcielny        4.0 OP  01826      49.28  52.11   50.69      42
              Jerzy Guzowski          2.5 WP  07590 S  
       25  29 Janusz Michalec         2.5 WP  05235      49.56  50.66   50.11      40
-             Ryszard ZieliÒski       1.0 WP  05539    
-      26  44 Przemys≥aw Machowczyk   7.0 WP  05202      50.96  48.82   49.89      38
+             Ryszard Zieli≈Ñski       1.0 WP  05539    
+      26  44 Przemys≈Çaw Machowczyk   7.0 WP  05202      50.96  48.82   49.89      38
              Ryszard Olenderek       7.0 WP  05291 S  
       27  10 Roman Kujawski          7.0 WP  05156 S    48.49  49.74   49.11      36
              Andrzej Sienkiewicz     4.0 WP  05377    
       28  48 Andrzej Mazurek         7.0 WP  05226      52.88  44.47   48.68      34
-             Janusz ZwierzyÒski      4.0 WP  05548    
-      29  26 Ryszard Pa≥asz          4.0 WP  10533      40.67  55.79   48.23      32
+             Janusz Zwierzy≈Ñski      4.0 WP  05548    
+      29  26 Ryszard Pa≈Çasz          4.0 WP  10533      40.67  55.79   48.23      32
              Andrzej Syrek           7.0 WP  05431    
 
 
-      30   4 Bogdan Bia≥oszyÒski     4.0 WP  05572      53.10  43.03   48.06      30
+      30   4 Bogdan Bia≈Çoszy≈Ñski     4.0 WP  05572      53.10  43.03   48.06      30
              Zbigniew Stasiak        4.0 WP  05826 S  
-      31   5 Jacek WÍdrychowicz      7.0 WP  05489 S    52.49  42.76   47.63      28
+      31   5 Jacek Wƒôdrychowicz      7.0 WP  05489 S    52.49  42.76   47.63      28
              Kazimierz Dujs          4.0 WP  07737 S  
       32  65 Marek Pancer            0.0 WP             42.25  50.53   46.39      26
              Marek Paprzydzki        0.0 WP           
@@ -81,29 +81,29 @@ KOPS  (c) J.RomaÒski'1993                             http://www.icl.pl/Romanski
              Andrzej Latanowicz      2.5 WP  05174    
       36  47 Maciej Pilecki          0.5 WP  09452      43.94  43.82   43.88      18
              Patryk Pilecki          0.0 WP  10160 M  
-      37  70 Stefan DÍbiÒski         0.0 WP             48.55  38.29   43.42      16
-             JÛzef Janiak            0.0 WP           
+      37  70 Stefan Dƒôbi≈Ñski         0.0 WP             48.55  38.29   43.42      16
+             J√≥zef Janiak            0.0 WP           
       38  45 Tomasz Michalak         0.0 WP  08648 J    35.53  42.11   38.82      14
-             Marcin DryjaÒski        0.0 WP  08637 J  
-      39  49 Przemys≥aw Kucharski    0.0 WP  08644 J    43.04  33.95   38.50      12
+             Marcin Dryja≈Ñski        0.0 WP  08637 J  
+      39  49 Przemys≈Çaw Kucharski    0.0 WP  08644 J    43.04  33.95   38.50      12
              Maciej Antkowiak        0.0 WP  08626 J  
-      40  11 Artur KoniÒski          0.0 WP        M    37.94  35.66   36.80      10
+      40  11 Artur Koni≈Ñski          0.0 WP        M    37.94  35.66   36.80      10
              Jakub Sola              0.0 WP  10538 J  
      
-      41  24 Bartek Paüdzior         0.0 WP        M    37.20  33.29   35.25       8
+      41  24 Bartek Pa≈∫dzior         0.0 WP        M    37.20  33.29   35.25       8
              Robert Janczak          0.0 WP  10568 J  
       42  43 Agnieszka Karnecka      0.0 WP  08640 KJ   35.17  30.92   33.05       6
              Katarzyna Karnecka      0.0 WP  08641 KJ 
       43  63 Dawid Parus             0.0 WP        M    29.09  31.71   30.40       4
-             Kamil HerudziÒski       0.0 WP        M  
-      44  28 Albert Woüniak          0.0 WP  10539 J    21.13  37.37   29.25       2
+             Kamil Herudzi≈Ñski       0.0 WP        M  
+      44  28 Albert Wo≈∫niak          0.0 WP  10539 J    21.13  37.37   29.25       2
              Jakub Nowakowski        0.0 WP  10537 J  
      
      Suma WK = 247.5
      
      
-     PIERWSI W SESJI  1   2, J Kuczera-M WiÍcek            8.0 WP     66.18%
+     PIERWSI W SESJI  1   2, J Kuczera-M Wiƒôcek            8.0 WP     66.18%
      
-     PIERWSI W SESJI  2  51, Z Saba≥a-A WÛjcik            14.0 WP     63.16%
+     PIERWSI W SESJI  2  51, Z Saba≈Ça-A W√≥jcik            14.0 WP     63.16%
      
 

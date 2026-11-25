@@ -1,44 +1,44 @@
-KOPS  (c) J.RomaÒski'1993   sÍdzia A.Wachowski  
+KOPS  (c) J.Roma≈Ñski'1993   sƒôdzia A.Wachowski  
 
 II sesja
 wwersja ostateczna
 
 M-CE NR                                           +/-    %   PKL PDF   NAGRODA
 ------------------------------------------------------------------------------
-  1  15 T Latos-M Giøa                6.5 KP           66.32  
-  2   1 G DembiÒski-A Syrek          11.0 WP     +3.03 63.33  
-  3  11 R Pa≥asz-J SzymaÒski          8.0 WP     +1.18 62.98  
-  4   3 J Kuczera-M WiÍcek            8.0 WP           62.95  
-  5  13 E Kaczmarek-J Leúniczak      14.0 ZP           62.12  
-  6   4 B Matuszewski-M SosiÒski      6.5 WP           61.84  
-  7  20 P Weymann-J ZwierzyÒski      11.0 WP           61.08  
-  8   8 J Guzowski-C Koúcielak        5.0 WP           58.02  
-  9  18 W Kwiatkowski-R MroziÒski    13.5 WP           57.65  
+  1  15 T Latos-M Gi≈ºa                6.5 KP           66.32  
+  2   1 G Dembi≈Ñski-A Syrek          11.0 WP     +3.03 63.33  
+  3  11 R Pa≈Çasz-J Szyma≈Ñski          8.0 WP     +1.18 62.98  
+  4   3 J Kuczera-M Wiƒôcek            8.0 WP           62.95  
+  5  13 E Kaczmarek-J Le≈õniczak      14.0 ZP           62.12  
+  6   4 B Matuszewski-M Sosi≈Ñski      6.5 WP           61.84  
+  7  20 P Weymann-J Zwierzy≈Ñski      11.0 WP           61.08  
+  8   8 J Guzowski-C Ko≈õcielak        5.0 WP           58.02  
+  9  18 W Kwiatkowski-R Mrozi≈Ñski    13.5 WP           57.65  
  10  17 S Piechocki-Z Paluczek        1.5 WP     -1.16 57.58  
 
  11  22 S Maciejewski-K Szymczak      5.0 WP           57.46  
- 12   5 A Pietrkiewicz-R Mπczkowski   5.0 WP           56.50  
- 13  30 J Koúcielny-P Walczak        16.0 WP/MP        56.08  
- 14  12 D Kurzawski-J LubczyÒski      6.5 WP           54.02  
+ 12   5 A Pietrkiewicz-R MƒÖczkowski   5.0 WP           56.50  
+ 13  30 J Ko≈õcielny-P Walczak        16.0 WP/MP        56.08  
+ 14  12 D Kurzawski-J Lubczy≈Ñski      6.5 WP           54.02  
  15  23 P Machowczyk-R Olenderek     14.0 WP           52.95  
- 16   2 J Nowak-J WÍdrychowicz       14.0 WP           52.75  
+ 16   2 J Nowak-J Wƒôdrychowicz       14.0 WP           52.75  
  17   9 M Pancer-W Wawoczny               WP           52.46  
- 18  10 P Babecki-C Paw≥osik          3.0 LD           51.50  
+ 18  10 P Babecki-C Paw≈Çosik          3.0 LD           51.50  
  19  16 J Janiak-W Wendowski          1.5 WP           51.43  
  20  21 K Kowalski-A Bednarski            WP/SW  +0.91 50.92  
 
- 21  25 A Go≥ygowski-M Stawicki       2.5 NZ/KP        50.08  
- 22  29 W SosiÒski-K Buza≥a               WP           46.37  
+ 21  25 A Go≈Çygowski-M Stawicki       2.5 NZ/KP        50.08  
+ 22  29 W Sosi≈Ñski-K Buza≈Ça               WP           46.37  
  23  31 M Klatkiewicz-A Latanowicz    5.0 WP           45.77  
- 24  24 E Furs-J KokociÒski           4.0 KP           45.08  
- 25  14 B Paüdzior-R Janczak              WP           42.88 
+ 24  24 E Furs-J Kokoci≈Ñski           4.0 KP           45.08  
+ 25  14 B Pa≈∫dzior-R Janczak              WP           42.88 
  26  28 M Majewski-T Antczak              WP     +1.52 38.20 
- 27  19 O Kuúmierek-M Musia≥              WP           35.83 
- 28  32 M Skrzypczak-W Woüniak            WP           34.93 
- 29   7 Z Cetner-A £adosz                 WP           32.95 
+ 27  19 O Ku≈õmierek-M Musia≈Ç              WP           35.83 
+ 28  32 M Skrzypczak-W Wo≈∫niak            WP           34.93 
+ 29   7 Z Cetner-A ≈Åadosz                 WP           32.95 
  30  26 T Felczak-S Wasicki               WP           30.18 
 
- 31  27 A Woüniak-J Nowakowski            WP           29.52 
+ 31  27 A Wo≈∫niak-J Nowakowski            WP           29.52 
  32   6 T Krysztofowicz-M Nowak           WP           23.75 
                                     -----
                           Suma WK = 161.5

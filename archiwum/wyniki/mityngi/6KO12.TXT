@@ -1,50 +1,50 @@
-KOPS  (c) J.RomaÒski'1993   sÍdzia A.Wachowski  
+KOPS  (c) J.Roma≈Ñski'1993   sƒôdzia A.Wachowski  
 
 GPW Konin
 
 M-CE NR                                          SES1   SES2   PUNKTY    %   PKL  NAGRODA
 ------------------------------------------------------------------------------------------
-  1  15 T Latos-M Giøa               6.5 KP    446.53 437.70  884.23   66.99  12    300,-
-  2   8 J Guzowski-C Koúcielak       5.0 WP    431.80 382.90  814.70   61.72  10    200,-
-  3   3 J Kuczera-M WiÍcek           8.0 WP    390.00 415.44  805.44   61.02   8    100,-
-  4  30 J Koúcielny-P Walczak       16.0 WP/MP 423.80 370.10  793.90   60.14   7     80,-
-  5   4 B Matuszewski-M SosiÒski     6.5 WP    379.67 408.13  787.80   59.68   6    
-  6  20 P Weymann-J ZwierzyÒski     11.0 WP    379.70 403.16  782.86   59.31   5    
-  7  11 R Pa≥asz-J SzymaÒski         8.0 WP    361.20 415.69  776.89   58.86   4    
+  1  15 T Latos-M Gi≈ºa               6.5 KP    446.53 437.70  884.23   66.99  12    300,-
+  2   8 J Guzowski-C Ko≈õcielak       5.0 WP    431.80 382.90  814.70   61.72  10    200,-
+  3   3 J Kuczera-M Wiƒôcek           8.0 WP    390.00 415.44  805.44   61.02   8    100,-
+  4  30 J Ko≈õcielny-P Walczak       16.0 WP/MP 423.80 370.10  793.90   60.14   7     80,-
+  5   4 B Matuszewski-M Sosi≈Ñski     6.5 WP    379.67 408.13  787.80   59.68   6    
+  6  20 P Weymann-J Zwierzy≈Ñski     11.0 WP    379.70 403.16  782.86   59.31   5    
+  7  11 R Pa≈Çasz-J Szyma≈Ñski         8.0 WP    361.20 415.69  776.89   58.86   4    
   8  17 S Piechocki-Z Paluczek       1.5 WP    381.00 387.67  768.67   58.23   3    
-  9   1 G DembiÒski-A Syrek         11.0 WP    347.47 418.00  765.47   57.99   2    
- 10  13 E Kaczmarek-J Leúniczak     14.0 ZP    335.93 409.96  745.89   56.51   1    
+  9   1 G Dembi≈Ñski-A Syrek         11.0 WP    347.47 418.00  765.47   57.99   2    
+ 10  13 E Kaczmarek-J Le≈õniczak     14.0 ZP    335.93 409.96  745.89   56.51   1    
 
  11  23 P Machowczyk-R Olenderek    14.0 WP    391.20 349.44  740.64   56.11  
- 12  24 E Furs-J KokociÒski          4.0 KP    425.80 297.55  723.35   54.80  
+ 12  24 E Furs-J Kokoci≈Ñski          4.0 KP    425.80 297.55  723.35   54.80  
  13  16 J Janiak-W Wendowski         1.5 WP    377.80 339.45  717.25   54.34  
- 14   5 A Pietrkiewicz-R Mπczkowski  5.0 WP    339.93 372.89  712.82   54.00  
- 15  12 D Kurzawski-J LubczyÒski     6.5 WP    346.40 356.53  702.93   53.25  
- 16  18 W Kwiatkowski-R MroziÒski   13.5 WP    330.70 368.70  699.40   52.98  
- 17  10 P Babecki-C Paw≥osik         3.0 LD    350.80 339.93  690.73   52.33  
- 18  25 A Go≥ygowski-M Stawicki      2.5 NZ/KP 355.47 330.51  685.98   51.97  
+ 14   5 A Pietrkiewicz-R MƒÖczkowski  5.0 WP    339.93 372.89  712.82   54.00  
+ 15  12 D Kurzawski-J Lubczy≈Ñski     6.5 WP    346.40 356.53  702.93   53.25  
+ 16  18 W Kwiatkowski-R Mrozi≈Ñski   13.5 WP    330.70 368.70  699.40   52.98  
+ 17  10 P Babecki-C Paw≈Çosik         3.0 LD    350.80 339.93  690.73   52.33  
+ 18  25 A Go≈Çygowski-M Stawicki      2.5 NZ/KP 355.47 330.51  685.98   51.97  
  19  31 M Klatkiewicz-A Latanowicz   5.0 WP    372.93 302.09  675.02   51.14  
  20  22 S Maciejewski-K Szymczak     5.0 WP    303.07 367.10  670.17   50.77  
 
  21   9 M Pancer-W Wawoczny              WP    318.80 346.24  665.04   50.38  
  22  21 K Kowalski-A Bednarski           WP/SW 317.47 346.05  663.52   50.27  
- 23   2 J Nowak-J WÍdrychowicz      14.0 WP    309.07 332.16  641.23   48.58  
- 24  29 W SosiÒski-K Buza≥a              WP    243.20 306.04  549.24   41.61  
+ 23   2 J Nowak-J Wƒôdrychowicz      14.0 WP    309.07 332.16  641.23   48.58  
+ 24  29 W Sosi≈Ñski-K Buza≈Ça              WP    243.20 306.04  549.24   41.61  
  25  26 T Felczak-S Wasicki              WP    322.53 199.17  521.70   39.52  
  26  28 M Majewski-T Antczak             WP    261.53 242.14  503.67   38.16  
- 27  32 M Skrzypczak-W Woüniak           WP    256.27 242.33  498.60   37.77  
- 28  14 B Paüdzior-R Janczak             WP    184.33 295.18  479.51   36.33  
- 29   7 Z Cetner-A £adosz                WP    215.60 217.47  433.07   32.81  
- 30  27 A Woüniak-J Nowakowski           WP    234.73 194.84  429.57   32.54  
+ 27  32 M Skrzypczak-W Wo≈∫niak           WP    256.27 242.33  498.60   37.77  
+ 28  14 B Pa≈∫dzior-R Janczak             WP    184.33 295.18  479.51   36.33  
+ 29   7 Z Cetner-A ≈Åadosz                WP    215.60 217.47  433.07   32.81  
+ 30  27 A Wo≈∫niak-J Nowakowski           WP    234.73 194.84  429.57   32.54  
 
  31   6 T Krysztofowicz-M Nowak          WP    272.20 156.76  428.96   32.50  
- 32  19 O Kuúmierek-M Musia≥             WP    150.07 236.47  386.54   29.28  
+ 32  19 O Ku≈õmierek-M Musia≈Ç             WP    150.07 236.47  386.54   29.28  
                                    -----
                          Suma WK = 161.5
 
 
-PIERWSI W SESJI  1  15, T Latos-M Giøa               6.5 KP     67.66%
+PIERWSI W SESJI  1  15, T Latos-M Gi≈ºa               6.5 KP     67.66%
 
-PIERWSI W SESJI  2  15, T Latos-M Giøa               6.5 KP     66.32%
+PIERWSI W SESJI  2  15, T Latos-M Gi≈ºa               6.5 KP     66.32%
 
 
