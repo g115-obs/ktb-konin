@@ -5,6 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Brydż w Koninie</title>
+<link rel="icon" href="assets/branding/favicon.ico"><link rel="apple-touch-icon" href="assets/branding/apple-touch-icon.png">
 <style>
 :root {
   --navy:#193a50;
@@ -29,6 +30,9 @@ header {
   font-size:26px;
   font-weight:bold;
 }
+.portal-header {display:flex;align-items:center;gap:20px}
+.portal-home {flex:none}
+.portal-logo {width:240px;height:auto;display:block}
 nav {
   display:flex;
   gap:25px;
@@ -111,6 +115,9 @@ footer {
 }
 @media(max-width:650px) {
   header {padding:18px}
+  .portal-header {display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 12px}
+  .portal-logo {width:105px}
+  .brand {font-size:20px}
   nav {gap:12px}
   .hero {padding:45px 15px}
   .archive-window iframe {height:500px}
@@ -121,7 +128,9 @@ footer {
 
 <body>
 <header>
-  <div class="brand">♠ ♥ ♦ ♣ &nbsp; Brydż w Koninie</div>
+  <div class="portal-header">
+  <a class="portal-home" href="https://g115-obs.github.io/ktb-konin/"><img class="portal-logo" src="assets/branding/logo.webp" width="240" height="160" alt="Brydż w Koninie – strona główna"></a>
+  <div><div class="brand">Brydż w Koninie</div>
   <nav>
     <a href="#start">Start</a>
     <a href="https://g115-obs.github.io/wyniki-brydzowe/">Wyniki</a>
@@ -129,6 +138,7 @@ footer {
     <a href="#historia">Historia</a>
     <a href="kapsula.html">Kapsuła czasu</a>
   </nav>
+  </div></div>
 </header>
 
 <section class="hero" id="start">
