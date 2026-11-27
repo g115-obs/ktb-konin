@@ -41,16 +41,20 @@ nav {
 }
 nav a {color:white;text-decoration:none}
 nav a:hover {text-decoration:underline}
-.hero {
-  background:linear-gradient(120deg,#193a50,#237552);
-  color:white;
-  padding:65px 20px;
-  text-align:center;
-}
-.hero h1 {
-  font-size:clamp(30px,5vw,46px);
-  margin:0 0 12px;
-}
+.welcome h1 {margin:0 0 16px;color:var(--navy);font-size:clamp(25px,4vw,36px);line-height:1.2}
+.tile-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:1fr;gap:14px}
+.tile {display:flex;flex-direction:column;align-items:flex-start;min-height:155px;padding:17px;border:1px solid var(--edge);border-radius:12px;background:var(--tint);color:var(--ink);text-decoration:none}
+.tile svg {width:32px;height:32px;margin-bottom:7px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.tile h2 {margin:0;color:inherit;font-size:clamp(20px,3vw,24px);line-height:1.25}
+.tile p {margin:5px 0 0;color:#263844;font-size:1.05rem;line-height:1.4}
+.tile[href]:hover {box-shadow:0 3px 12px #193a5017;border-color:var(--ink)}
+.tile[href]:focus-visible {outline:3px solid var(--ink);outline-offset:3px}
+.tile small {margin-top:7px;font-size:.9rem;font-weight:bold}
+.tile-results {--tint:#E5F1E8;--ink:#24623B;--edge:#bfd8c8}
+.tile-dd {--tint:#E7EEF9;--ink:#244E87;--edge:#c5d5ef}
+.tile-history {--tint:#FAF0D9;--ink:#89601E;--edge:#e5d3a8}
+.tile-online {--tint:#F6E5E5;--ink:#963D3D;--edge:#e4c5c5}
+@media(max-width:540px){.tile-grid{grid-template-columns:1fr}}
 main {
   max-width:1150px;
   margin:auto;
@@ -119,7 +123,6 @@ footer {
   .portal-logo {width:105px}
   .brand {font-size:20px}
   nav {gap:12px}
-  .hero {padding:45px 15px}
   .archive-window iframe {height:500px}
   .panel {padding:18px}
 }
@@ -141,22 +144,31 @@ footer {
   </div></div>
 </header>
 
-<section class="hero" id="start">
-  <h1>Brydż w Koninie</h1>
-  <p>Turnieje, wyniki i historia konińskiego brydża</p>
-</section>
-
 <main>
+<section class="welcome" id="start" aria-labelledby="welcome-title">
+  <h1 id="welcome-title">Witamy na portalu brydżowym</h1>
+  <div class="tile-grid">
+    <a class="tile tile-results" href="https://g115-obs.github.io/wyniki-brydzowe/">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10v6a5 5 0 0 1-10 0V3ZM7 5H3v2a4 4 0 0 0 4 4m10-6h4v2a4 4 0 0 1-4 4m-5 3v6m-4 1h8"/></svg>
+      <h2>Wyniki turniejów</h2><p>Wyniki, protokoły i rozkłady rozdań</p>
+    </a>
+    <a class="tile tile-dd" href="https://g115-obs.github.io/doubledummy/">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="3" width="12" height="17" rx="2"/><path d="m8 6-3 .7a2 2 0 0 0-1.5 2.4l2.4 10.6a2 2 0 0 0 2.4 1.5l5.5-1.2M14 7l3 4-3 4-3-4z"/></svg>
+      <h2>Double Dummy</h2><p>Interaktywna analiza rozdań brydżowych</p>
+    </a>
+    <a class="tile tile-history" href="kapsula.html">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 1 1 2.5 6.2M3 7v5h5m4-5v5l4 2"/></svg>
+      <h2>Kapsuła czasu</h2><p>Historia konińskiego brydża</p>
+    </a>
+    <div class="tile tile-online">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="7" r="3"/><path d="M6 21v-2a6 6 0 0 1 12 0v2M3 21v-2a5 5 0 0 1 2-4m16 6v-2a5 5 0 0 0-2-4M6 5a2.5 2.5 0 0 0 0 5m12-5a2.5 2.5 0 0 1 0 5"/></svg>
+      <h2>Brydż online</h2><p>Stoliki i mecze brydżowe</p><small>W przygotowaniu</small>
+    </div>
+  </div>
+</section>
 <section id="wyniki">
   <h2>Brydż dzisiaj</h2>
   <div class="cards">
-    <div class="card">
-      <h3>♠ Wyniki turniejów</h3>
-      <p>
-        Aktualne wyniki konińskich rozgrywek brydżowych.
-      </p>
-      <a class="button" href="https://g115-obs.github.io/wyniki-brydzowe/">Zobacz wyniki turniejów</a>
-    </div>
     <div class="card">
       <h3>♥ Kalendarz</h3>
       <p>
