@@ -1,0 +1,34 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Analiza rozdań — Brydż w Koninie</title>
+<link rel="icon" href="assets/branding/favicon.ico"><link rel="apple-touch-icon" href="assets/branding/apple-touch-icon.png">
+<link rel="stylesheet" href="portal-header.css?v=2">
+<style>body{margin:0;background:#edf3ef;font:16px system-ui,sans-serif}main{max-width:1100px;margin:auto;padding:8px 12px}.analysis-window{display:block;box-sizing:border-box;width:100%;height:700px;border:1px solid #ccd9d1;border-radius:10px;background:#edf3ef}</style>
+</head><body>
+<header class="bwk-header bwk-analysis-header"><a class="bwk-home" href="../ktb-konin/"><img src="assets/branding/logo-small.webp" width="150" height="100" alt="Brydż w Koninie – strona główna"></a><div class="bwk-heading"><strong>Analiza rozdań</strong><a id="back-board" class="back-board" hidden>Wróć do rozdania</a></div></header>
+<main><iframe id="analyzer" class="analysis-window" title="Interaktywny analizator rozdań"></iframe></main>
+<script>
+const input=new URLSearchParams(location.search), deal=new URLSearchParams(), frame=document.getElementById('analyzer');
+for(const key of ['turniej','rozdanie','runda','stol']){
+  const value=input.get(key);
+  if(value&&/^\d+$/.test(value))deal.set(key,value);
+}
+const back=input.get('powrot')||'';
+if(deal.has('turniej')&&deal.has('rozdanie')&&/^#\/turniej\/\d+\/board\/\d+(?:\/pair\/\d+)?$/.test(back)){
+  const link=document.getElementById('back-board');
+  link.href='../wyniki-brydzowe/'+back;
+  link.hidden=false;
+  link.closest('header').classList.add('bwk-has-return');
+}
+let sizeObserver;
+frame.addEventListener('load',()=>{
+  if(sizeObserver)sizeObserver.disconnect();
+  try{
+    const content=frame.contentDocument.querySelector('main');
+    if(!content)return;
+    const resize=()=>{frame.style.height=Math.max(420,Math.ceil(content.getBoundingClientRect().height)+20)+'px';};
+    resize();
+    if(window.ResizeObserver){sizeObserver=new ResizeObserver(resize);sizeObserver.observe(content);}
+  }catch(error){/* If framed on another origin, retain the iframe scrollbar. */}
+});
+frame.src='../doubledummy/?embed=1'+(deal.toString()?'#'+deal.toString():'');
+</script></body></html>
